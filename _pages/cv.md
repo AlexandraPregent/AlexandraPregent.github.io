@@ -14,7 +14,7 @@ Education
 * Ph.D in Philosophy, Philosophy of Technology, Leiden University, 2021-
   Supervisors: Prof. Dorota Mokrosinska and Prof. James McAllister (Leiden U.)
   
-* M.S. in Philosophy, Ethics of AI, Laval University, 2019-2021
+* MA. in Philosophy, Ethics of AI, Laval University, 2019-2021
   Supervisor: Prof. Jocelyn Maclure (McGill U.)
   
 * B.S. in Philosophy & French Literature, 2016-2019
