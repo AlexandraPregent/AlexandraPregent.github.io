@@ -20,6 +20,8 @@ Education
 * B.S. in Philosophy & French Literature, 2016-2019
 
 
+
+
 Work experience
 ======
 ### In-the-field experience
@@ -32,6 +34,7 @@ Work experience
 * 2019-2021 Team Member of the Innovative Ideas Incubator (Hub)
   * Think Thank: OBVIA - International Observatory on the Societal Impacts of AI & Digital Technology (Canada)
   * Involvement in this hub led to the creation and development of an AI supportive system for the Service of Information and the Referral Service on socio-community services in Quebec (211). This AI project was schedule to be presented at a workshop at the Massachusetts Institute of Technology (MIT) in October 2020 (cancelled due to pandemic travel restrictions).
+
 
 
 
@@ -59,6 +62,9 @@ Work experience
    * Design of new course on Ethics of AI, Litterature Reviews, Review of academic work
    * Prof Jocelyn Maclure
 
+
+
+
 Publications
 ======
  Alexandra Prégent (Forthcoming) Why You Should Not Use CI to Evaluate Socially Disruptive Technology: Privacy, Norms, and contexts. (Under revision at Philosophy&Technology)
@@ -71,6 +77,9 @@ Alexandra Prégent (2021) Affective Computing: Is the Use of Emotion Recognition
 
 Nicolas Bernier & Alexandra Prégent (2020) Ethical Deliberation In a Sanitary, Economic, and Environmetal Crisis, Ethics of Science & Technology Commission, Actualities. 
   
+
+
+
 Talks & Workshops (Selection)
 ======
 AI & Policy 2023. International workshop on Epistemic Rights in AI Policy. With a focus on explainable AI, LLMs and generative AI, and fairness and accountability, this workshop aimed to explore innovative approaches to address contemporary challenges in AI policy. Eindhoven, Fall 2023.
