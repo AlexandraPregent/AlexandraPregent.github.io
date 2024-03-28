@@ -12,17 +12,19 @@ redirect_from:
 Education
 ======
 * Ph.D in Philosophy, Philosophy of Technology, Leiden University, 2021-
-  Supervisors: Prof. Dorota Mokrosinska and Prof. James McAllister (Leiden U.)
+
   
 * MA. in Philosophy, Ethics of AI, Laval University, 2019-2021
-  Supervisor: Prof. Jocelyn Maclure (McGill U.)
+
   
 * B.S. in Philosophy & French Literature, 2016-2019
 
 Work experience
 ======
-* 2019-2021 Ethics in Science & Technology Commission (Quebec Government)
-  * Ethic counsellor-student trainee. The Commission's mandate is to advise the Government on ethical questions related to technologies. 
+* 2019-2021 Ethics Adviser- Student Trainee
+* Employer: Ethics in Science & Technology Commission (Quebec Government)
+
+  * The Commission's mandate is to advise the Government on ethical questions related to Science & Technologies. 
   * Participation in the writing of several documents, including official briefs and reports.
 
 * Fall 2015: Research Assistant
