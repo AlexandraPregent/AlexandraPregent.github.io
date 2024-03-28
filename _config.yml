@@ -35,7 +35,6 @@ author:
   googlescholar    : "https://scholar.google.fr/citations?hl=fr&user=bFRhe20AAAAJ" # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-7812-6223" # URL
-  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Alexandra-Pregent" # URL
 
   # Repositories and software development
@@ -47,7 +46,6 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # Username # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -56,7 +54,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "alexandrapregent" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
