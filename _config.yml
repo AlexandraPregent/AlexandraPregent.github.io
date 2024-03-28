@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "AlexLeiden.jpeg"
   name             : "Alexandra Prégent"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Researcher @ Leiden University"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD Researcher           @ Leiden University"
+  location         : ""
+  employer         : ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "alexandrapregent@hotmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
