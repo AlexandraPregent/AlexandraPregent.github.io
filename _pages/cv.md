@@ -17,9 +17,9 @@ redirect_from:
 
 Ph.D in Philosophy, Philosophy of Technology, Leiden University, 2021-
 
-* M.A. in Philosophy, Ethics of AI, Laval University, 2019-2021
+M.A. in Philosophy, Ethics of AI, Laval University, 2019-2021
 
-* BA. in Philosophy & French Literature, 2016-2019
+B.A. in Philosophy & French Literature, 2016-2019
 
 &nbsp; 
 &nbsp; 
@@ -36,14 +36,13 @@ Canada Social Sciences and Humanities Research Council (20 000$ CAD/year) 2021-2
 
 * Bourse Desjardins Baccalauréat (1250$CAD) 2017  
 
-&nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp;
+&nbsp; 
+&nbsp; 
 
 
 # Work Experience
 
 &nbsp; 
-
 
 ## In-the-field experience
 
@@ -60,10 +59,9 @@ Canada Social Sciences and Humanities Research Council (20 000$ CAD/year) 2021-2
 ### **Team Member of the Innovative Ideas Incubator (2019-2021)**
   
 * *Think Thank: OBVIA - International Observatory on the Societal Impacts of AI & Digital Technology (Canada)*
-  * &nbsp; &nbsp; Involvement in this hub led to the creation and development of an AI supportive system for the Service of Information 
-  * &nbsp; &nbsp; and the Referral Service on socio-community services in Quebec (211). This AI project was schedule to be presented at 
-  * &nbsp; &nbsp; a workshop at the Massachusetts Institute of Technology (MIT) in October 2020 (cancelled due to pandemic travel 
-  * &nbsp; &nbsp; restrictions).
+  * &nbsp; Involvement in this hub led to the creation and development of an AI supportive system for the Service of Information and
+    the Referral Service on socio-community services in Quebec (211). This AI project was schedule to be presented at a workshop at the
+    Massachusetts Institute of Technology (MIT) in October 2020 (cancelled due to pandemic travel restrictions).
 
 
 &nbsp; &nbsp; &nbsp;
