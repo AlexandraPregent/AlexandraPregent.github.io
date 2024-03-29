@@ -204,12 +204,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
-  inthefieldexperience:
+  talks:
     output: true
     permalink: /:collection/:path/
 
