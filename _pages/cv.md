@@ -31,7 +31,7 @@ redirect_from:
 
 
 * Joseph-Armand Bombardier Canada Graduate Scholarships (105 000$ CAD) 2021-2024
-    * Scholarship declined to go study abroad.
+                   (Scholarship declined to go study abroad.)
 
 
 * OBVIA M.A. Fellowship Award (15 000$ CAD) 2020-2021
