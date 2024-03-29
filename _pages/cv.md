@@ -19,7 +19,11 @@ redirect_from:
 
 * MA. in Philosophy, Ethics of AI, Laval University, 2019-2021
 
-* B.S. in Philosophy & French Literature, 2016-2019  
+* B.S. in Philosophy & French Literature, 2016-2019
+
+# Test
+
+Test
 
 
 # Scholarships & Fellowships
@@ -44,6 +48,7 @@ redirect_from:
 
 
 ### **Ethics Adviser- Student Trainee (2019-2021)**
+
 * *Ethics in Science & Technology Commission (Quebec Government)*
     * &nbsp; &nbsp; The Commission's mandate is to advise the Government on ethical questions related to Science & Technologies. 
     * &nbsp; &nbsp; Participation in the writing of several documents, including official briefs and reports.
