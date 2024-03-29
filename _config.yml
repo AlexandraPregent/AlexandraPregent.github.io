@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Alexandra's Academic Page"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Alexandra Prégent"
+description              : &description "Alexandra's Academic Page"
 url                      : "https://AlexandraPregent.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AlexandraPregent/AlexandraPregent.github.io"
@@ -209,6 +209,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  in-the-field experience:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -266,7 +269,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+ # _in-the-field experience
+  - scope:
+      path: ""
+      type: in-the-field experience
+    values:
+      layout: in-the-field experience
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
