@@ -17,13 +17,12 @@ redirect_from:
 
 Ph.D in Philosophy, Philosophy of Technology, Leiden University, 2021-
 
-* MA. in Philosophy, Ethics of AI, Laval University, 2019-2021
+* M.A. in Philosophy, Ethics of AI, Laval University, 2019-2021
 
-* B.S. in Philosophy & French Literature, 2016-2019
+* BA. in Philosophy & French Literature, 2016-2019
 
-# Test
-
-Test
+&nbsp; 
+&nbsp; 
 
 
 # Scholarships & Fellowships
@@ -37,10 +36,13 @@ Canada Social Sciences and Humanities Research Council (20 000$ CAD/year) 2021-2
 
 * Bourse Desjardins Baccalauréat (1250$CAD) 2017  
 
+&nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp;
+
 
 # Work Experience
 
-* Test
+&nbsp; 
 
 
 ## In-the-field experience
@@ -63,7 +65,8 @@ Canada Social Sciences and Humanities Research Council (20 000$ CAD/year) 2021-2
   * &nbsp; &nbsp; a workshop at the Massachusetts Institute of Technology (MIT) in October 2020 (cancelled due to pandemic travel 
   * &nbsp; &nbsp; restrictions).
 
-.
+
+&nbsp; &nbsp; &nbsp;
 
 
 ## Academic experience
@@ -91,8 +94,8 @@ Canada Social Sciences and Humanities Research Council (20 000$ CAD/year) 2021-2
      * &nbsp; &nbsp; Prof Jocelyn Maclure
 
 
-.
-
+&nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp;
 
 Publications
 ======
@@ -107,7 +110,8 @@ Publications
 Nicolas Bernier & **Alexandra Prégent** (2020) Ethical Deliberation In a Sanitary, Economic, and Environmetal Crisis, Ethics of Science & Technology Commission, Actualities. 
   
 
-.
+&nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp;
 
 
 Talks & Workshops (Selection)
@@ -140,6 +144,9 @@ Talks & Workshops (Selection)
 
 
 **VIII Research Day in Analytic Philosophy 2020.** Speaker at the VIII Research Day in Analytic Philosop. Talk: “Ethical Issues Raised by Opacity in Emotion Recognition Systems”, Québec, Fall 2020.
+
+&nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp;
 
 
 # Organisation of Conferences & Events
