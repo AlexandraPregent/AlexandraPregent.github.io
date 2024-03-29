@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "portfolio"
+title: "In-the-Field Experience"
 permalink: /portfolio/
 author_profile: true
 redirect_from:
@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+======
 
 * **2019-2021 Ethics Adviser- Student Trainee**
 * Employer: Ethics in Science & Technology Commission (Quebec Government)
