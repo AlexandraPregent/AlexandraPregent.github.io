@@ -21,9 +21,9 @@ My PhD research is funded by the [SSHRC of Canada](https://www.sshrc-crsh.gc.ca/
 
 ### Articles, Podcasts, and News About my Research
 
-[*Let's Talk Ethics* (2021)](https://www.youtube.com/watch?v=_szyyVoG5bs)
+🗣️ [*Let's Talk Ethics* (2021)](https://www.youtube.com/watch?v=_szyyVoG5bs)  \  🧔🏻‍♂️**Podcast Animator:** **[Keven Bisson](https://www.kevenbisson.com/cv)**
 
-[*False Emotions* (2021)](https://www.fp.ulaval.ca/actualites/alexandra-pregent-etudiante-a-la-maitrise-en-philosophie-a-presente-ses-travaux-dans-le-cadre-de-la-semaine-numeriqc)
+🎭 [*False Emotions* (2021)](https://www.fp.ulaval.ca/actualites/alexandra-pregent-etudiante-a-la-maitrise-en-philosophie-a-presente-ses-travaux-dans-le-cadre-de-la-semaine-numeriqc)
 
-[*Emotions, Contexte et IA: facile de se tromper* (2021)](https://cursus.edu/fr/22736/emotions-contexte-et-ia-facile-de-se-tromper) 
+🤖 [*Emotions, Contexte et IA: facile de se tromper* (2021)](https://cursus.edu/fr/22736/emotions-contexte-et-ia-facile-de-se-tromper) 
 
