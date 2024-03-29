@@ -17,31 +17,27 @@ redirect_from:
 
 * Ph.D in Philosophy, Philosophy of Technology, Leiden University, 2021-
 
-  
 * MA. in Philosophy, Ethics of AI, Laval University, 2019-2021
 
   
-* B.S. in Philosophy & French Literature, 2016-2019   
+* B.S. in Philosophy & French Literature, 2016-2019  
 
 
 # Scholarships & Fellowships
 
 * Canada Social Sciences and Humanities Research Council (20 000$ CAD/year) 2021-2025
 
-
 * Joseph-Armand Bombardier Canada Graduate Scholarships (105 000$ CAD) 2021-2024
    * &nbsp; &nbsp; &nbsp; (Scholarship declined to go study abroad.)
 
-
 * OBVIA M.A. Fellowship Award (15 000$ CAD) 2020-2021
 
-
-* Bourse Desjardins Baccalauréat (1250$CAD) 2017   
+* Bourse Desjardins Baccalauréat (1250$CAD) 2017  
 
 
 # Work Experience
 
-
+* Test
 
 
 ## In-the-field experience
