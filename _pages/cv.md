@@ -30,7 +30,7 @@ B.A. in Philosophy & French Literature, 2016-2019
 Canada Social Sciences and Humanities Research Council (20 000$ CAD/year) 2021-2025
 
 * Joseph-Armand Bombardier Canada Graduate Scholarships (105 000$ CAD) 2021-2024
-    &nbsp; &nbsp;(Scholarship declined to go study abroad.)
+    &nbsp;- (Scholarship declined to go study abroad.)
 
 * OBVIA M.A. Fellowship Award (15 000$ CAD) 2020-2021
 
