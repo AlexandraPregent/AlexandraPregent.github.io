@@ -25,5 +25,5 @@ My PhD research is funded by the [SSHRC of Canada](https://www.sshrc-crsh.gc.ca/
 
 🎭 [*False Emotions* (2021)](https://www.fp.ulaval.ca/actualites/alexandra-pregent-etudiante-a-la-maitrise-en-philosophie-a-presente-ses-travaux-dans-le-cadre-de-la-semaine-numeriqc)
 
-🤖 [*Emotions, Contexte et IA: facile de se tromper* (2021)](https://cursus.edu/fr/22736/emotions-contexte-et-ia-facile-de-se-tromper) 
+🤖 [*Émotions, Contexte et IA: facile de se tromper* (2021)](https://cursus.edu/fr/22736/emotions-contexte-et-ia-facile-de-se-tromper) 
 
