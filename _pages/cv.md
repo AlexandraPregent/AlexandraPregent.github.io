@@ -30,7 +30,7 @@ B.A. in Philosophy & French Literature, 2016-2019
 Canada Social Sciences and Humanities Research Council (20 000$ CAD/year) 2021-2025
 
 * Joseph-Armand Bombardier Canada Graduate Scholarships (105 000$ CAD) 2021-2024
-   * &nbsp; &nbsp; &nbsp; (Scholarship declined to go study abroad.)
+    &nbsp; &nbsp; &nbsp; (Scholarship declined to go study abroad.)
 
 * OBVIA M.A. Fellowship Award (15 000$ CAD) 2020-2021
 
@@ -51,8 +51,8 @@ Canada Social Sciences and Humanities Research Council (20 000$ CAD/year) 2021-2
 ### **Ethics Adviser- Student Trainee (2019-2021)**
 
 * *Ethics in Science & Technology Commission (Quebec Government)*
-    * &nbsp; &nbsp; The Commission's mandate is to advise the Government on ethical questions related to Science & Technologies. 
-    * &nbsp; &nbsp; Participation in the writing of several documents, including official briefs and reports.
+    * &nbsp; &nbsp;The Commission's mandate is to advise the Government on ethical questions related to Science & Technologies. 
+    * &nbsp; &nbsp;Participation in the writing of several documents, including official briefs and reports.
 
 
 
@@ -60,8 +60,8 @@ Canada Social Sciences and Humanities Research Council (20 000$ CAD/year) 2021-2
   
 * *Think Thank: OBVIA - International Observatory on the Societal Impacts of AI & Digital Technology (Canada)*
   * &nbsp; Involvement in this hub led to the creation and development of an AI supportive system for the Service of Information and
-    the Referral Service on socio-community services in Quebec (211). This AI project was schedule to be presented at a workshop at the
-    Massachusetts Institute of Technology (MIT) in October 2020 (cancelled due to pandemic travel restrictions).
+    &nbsp; the Referral Service on socio-community services in Quebec (211). This AI project was schedule to be presented at a workshop
+    &nbsp; at the Massachusetts Institute of Technology (MIT) in October 2020 (cancelled due to pandemic travel restrictions).
 
 
 &nbsp; &nbsp; &nbsp;
@@ -150,18 +150,18 @@ Talks & Workshops (Selection)
 # Organisation of Conferences & Events
 
 * Co-organizer of the Fifth Study Day on AI ethics ["Surveillance"](https://www.obvia.ca/evenements/5e-journee-detude-en-ethique-de-lia-cre-obvia-surveillance), Montreal. 2024-W
-   * - Joint organization with Martin Gibert (UdeM) & Hazar Haidar (UQAR)
+   * &nbsp; Joint organization with Martin Gibert (UdeM) & Hazar Haidar (UQAR)
 
 * Co-organizer of the [10th Annual OZSW Conference](https://www.ozsw.nl/2023-conference/), Dutch National Conference in philosophy, Leiden. 2023-S
-   * - Lead of the Track “Philosophy & Technology”.
+   * &nbsp; Lead of the Track “Philosophy & Technology”.
 
 * Co-organizer of the Fourth Study Day on AI ethics [“Affective Computing”](https://www.obvia.ca/evenements/4e-journee-detude-en-ethique-de-lia-sur-linformatique-affective), Montreal. 2023-W
-   * - Joint organization with Martin Gibert (UdeM) & Hazar Haidar (UQAR)
+   * &nbsp; Joint organization with Martin Gibert (UdeM) & Hazar Haidar (UQAR)
 
 * Co-organizer of the Third Study Day on AI ethics [“Ethics and simulation”](https://www.lecre.umontreal.ca/%C3%A9v%C3%A8nement/ethique-et-simulation-de-lia-a-la-realite-virtuelle/), Montreal. 2022-W
-   * - Joint organization with Martin Gibert (UdeM) & Hazar Haidar (UQAR)
+   * &nbsp; Joint organization with Martin Gibert (UdeM) & Hazar Haidar (UQAR)
 
 * Co-organizer of the Second Study Day on AI ethics [“Algorithmic Quandaries”](https://iid.ulaval.ca/evenements/colloque-2e-journee-detude-sur-lethique-des-algorithmes/), Montreal. 2021-W
-   * - Joint organization with Martin Gibert (UdeM) & Hazar Haidar (UQAR)
+   * &nbsp; Joint organization with Martin Gibert (UdeM) & Hazar Haidar (UQAR)
 
   
