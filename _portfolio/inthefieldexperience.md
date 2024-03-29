@@ -2,6 +2,7 @@
 title: "In-the-Field Experience"
 collection: portfolio
 ---
+.
 
 * **2019-2021 Ethics Adviser- Student Trainee**
 * Employer: Ethics in Science & Technology Commission (Quebec Government)
