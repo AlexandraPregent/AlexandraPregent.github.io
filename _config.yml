@@ -209,7 +209,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  in-the-field experience:
+  inthefieldexperience:
     output: true
     permalink: /:collection/:path/
 
