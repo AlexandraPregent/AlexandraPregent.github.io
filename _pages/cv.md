@@ -14,6 +14,7 @@ redirect_from:
 
 
 # Education
+*******
 
 * Ph.D in Philosophy, Philosophy of Technology, Leiden University, 2021-
 
@@ -26,6 +27,7 @@ redirect_from:
 
 
 # Scholarships & Fellowships
+*******
 
 - Canada Social Sciences and Humanities Research Council (20 000$ CAD/year) 2021-2025
 
@@ -49,6 +51,7 @@ redirect_from:
 
 
 ## In-the-field experience
+*******
 
 
 
