@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-======
-.
+
 
 
 * **2019-2021 Ethics Adviser- Student Trainee**
