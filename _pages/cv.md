@@ -86,7 +86,7 @@ redirect_from:
 
 ### Research Assistant
 * *2019-2021, Laval University (CAN)*
-     * Design of new course on Ethics of AI, Litterature Reviews, Review of academic work
+     * Design of new courses on Ethics of AI, Litterature Reviews, Review of academic work
      * Prof Jocelyn Maclure
 
 
