@@ -7,10 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-Hi there!👋 I'm currently a PhD Researcher at Leiden University under the supervision of Prof Dorota Mokrosinska and Prof James McAllister working on privacy and social issues in affective computing. My expertise is in the middle of philosophy of technology (affective computing, socially disruptive technology), moral and political philosophy (privacy and social justice), and philosophy of mind (emotion/cognition). My research addresses more specifically social impact related to the recognition and analysis of individual's emotions by artefacts (AI systems) beyond the consequences derived from technical limitations -- such as gender biases and group discrimination.
+Hi there!👋  I'm currently a PhD Researcher at Leiden University under the supervision of Prof Dorota Mokrosinska and Prof James McAllister working on privacy and social issues in affective computing. My expertise is in the middle of philosophy of technology (affective computing, socially disruptive technology), moral and political philosophy (privacy and social justice), and philosophy of mind (emotion/cognition). My research addresses more specifically social impact related to the recognition and analysis of individual's emotions by artefacts (AI systems) beyond the consequences derived from technical limitations -- such as gender biases and group discrimination.
 
 My main objective is to ***uncover the social effect that emotion recognition technologies (ERTs) will have on human relationships and the Self***. What if we had real-time recognition of emotions? How would this impact the social dynamics? In which contexts would this be desirable and in which contexts would this be detrimental? Do we have any legitimate claims to privacy over the emotions we display in public social settings? These, and more, are the questions I am currently trying to answer. 
 
-In my Master's thesis I addressed the social impact directly caused by the use of technically limited ERTs. My master's thesis was funded by an OBVIA grant (Canada) and is entitled *Affective Computing: Is the Use of Emotion Recognition Technology Consistent With Social Justice?* and you can check it out [here](https://leidenuni.academia.edu/AlexandraPr%C3%A9gent).
+In my Master's thesis I addressed the social impact directly caused by the use of technically constrained ERTs. My master's thesis was funded by an [OBVIA grant (Canada)](https://www.obvia.ca/actualites/felicitations-aux-laureates-du-programme-de-bourses-dappui-la-releve-2020) and is entitled *Affective Computing: Is the Use of Emotion Recognition Technology Consistent With Social Justice?* and is available on the [university website](https://www.fp.ulaval.ca/recherche/theses-et-memoires?titre=Informatique+affective%3A+L%E2%80%99utilisation+des+syst%C3%A8mes+de+reconnaissance+des+%C3%A9motions+est-elle+en+coh%C3%A9rence+avec+la+justice+sociale&type=All&etat=All&annee=All) or you can check it out [here](https://www.researchgate.net/publication/375600779_Informatique_affective_L'utilisation_des_systemes_de_reconnaissance_des_emotions_est-elle_en_coherence_avec_la_justice_sociale).
 
 My PhD research is funded by the [SSHRC of Canada](https://www.sshrc-crsh.gc.ca/results-resultats/recipients-recipiendaires/2020/cgs_doctoral-besc_doctorat-eng.aspx).
+
+
+*******
+
+
+### Articles, Podcasts, and News About my Research
+
+[*Let's Talk Ethics* (2021)](https://www.youtube.com/watch?v=_szyyVoG5bs)
+
+[*False Emotions* (2021)](https://www.fp.ulaval.ca/actualites/alexandra-pregent-etudiante-a-la-maitrise-en-philosophie-a-presente-ses-travaux-dans-le-cadre-de-la-semaine-numeriqc)
+
+[*Emotions, Contexte et IA: facile de se tromper* (2021)](https://cursus.edu/fr/22736/emotions-contexte-et-ia-facile-de-se-tromper) 
+
