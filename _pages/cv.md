@@ -24,10 +24,10 @@ redirect_from:
 * B.S. in Philosophy & French Literature, 2016-2019
 
 
-.
+
 # Scholarships & Fellowships
 
-* Canada Social Sciences and Humanities Research Council (20 000$ CAD/year) 2021-2025
+- Canada Social Sciences and Humanities Research Council (20 000$ CAD/year) 2021-2025
 
 
 * Joseph-Armand Bombardier Canada Graduate Scholarships (105 000$ CAD) 2021-2024
@@ -39,7 +39,9 @@ redirect_from:
 
 * Bourse Desjardins Baccalauréat (1250$CAD) 2017
 
-.
+
+
+
 
 # Work Experience
 *******
