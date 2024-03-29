@@ -13,8 +13,7 @@ redirect_from:
 
 
 
-
-# **Education**
+# Education
 
 * Ph.D in Philosophy, Philosophy of Technology, Leiden University, 2021-
 
@@ -25,9 +24,10 @@ redirect_from:
 * B.S. in Philosophy & French Literature, 2016-2019
 
 
+.
 
 
-# **Work Experience**
+# Work Experience
 
 ## In-the-field experience
 **2019-2021 Ethics Adviser- Student Trainee**
