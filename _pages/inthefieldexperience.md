@@ -4,7 +4,7 @@ title: "In-the-Field Experience"
 permalink: /portfolio/
 author_profile: true
 redirect_from:
-  - /inthefieldexperience
+  - /portfolio
 ---
 
 {% include base_path %}
