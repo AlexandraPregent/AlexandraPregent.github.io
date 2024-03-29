@@ -25,7 +25,17 @@ redirect_from:
 
 
 .
+# Scholarships & Fellowships
 
+* Canada Social Sciences and Humanities Research Council (20 000$ CAD/year) 2021-2025
+
+* Joseph-Armand Bombardier Canada Graduate Scholarships (105 000$ CAD) 2021-2024
+    * - Scholarship declined to go study abroad.
+
+* OBVIA M.A. Fellowship Award (15 000$ CAD) 2020-2021
+
+
+* Bourse Desjardins Baccalauréat (1250$CAD) 2017
 
 # Work Experience
 
@@ -121,5 +131,22 @@ Talks & Workshops (Selection)
 
 **VIII Research Day in Analytic Philosophy 2020.** Speaker at the VIII Research Day in Analytic Philosop. Talk: “Ethical Issues Raised by Opacity in Emotion Recognition Systems”, Québec, Fall 2020.
 
+
+# Organisation of Conferences & Events
+
+* Co-organizer of the Fifth Study Day on AI ethics ["Surveillance"](https://www.obvia.ca/evenements/5e-journee-detude-en-ethique-de-lia-cre-obvia-surveillance), Montreal. 2024-W
+   * - Joint organization with Martin Gibert (UdeM) & Hazar Haidar (UQAR)
+
+* Co-organizer of the [10th Annual OZSW Conference](https://www.ozsw.nl/2023-conference/), Dutch National Conference in philosophy, Leiden. 2023-S
+   * - Lead of the Track “Philosophy & Technology”.
+
+* Co-organizer of the Fourth Study Day on AI ethics [“Affective Computing”](https://www.obvia.ca/evenements/4e-journee-detude-en-ethique-de-lia-sur-linformatique-affective), Montreal. 2023-W
+   * - Joint organization with Martin Gibert (UdeM) & Hazar Haidar (UQAR)
+
+* Co-organizer of the Third Study Day on AI ethics [“Ethics and simulation”](https://www.lecre.umontreal.ca/%C3%A9v%C3%A8nement/ethique-et-simulation-de-lia-a-la-realite-virtuelle/), Montreal. 2022-W
+   * - Joint organization with Martin Gibert (UdeM) & Hazar Haidar (UQAR)
+
+* Co-organizer of the Second Study Day on AI ethics [“Algorithmic Quandaries”](https://iid.ulaval.ca/evenements/colloque-2e-journee-detude-sur-lethique-des-algorithmes/), Montreal. 2021-W
+   * - Joint organization with Martin Gibert (UdeM) & Hazar Haidar (UQAR)
 
   
