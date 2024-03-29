@@ -57,7 +57,6 @@ Canada Social Sciences and Humanities Research Council (20 000$ CAD/year) 2021-2
 ### **Team Member of the Innovative Ideas Incubator (2019-2021)**
   
 * *Think Thank: OBVIA - International Observatory on the Societal Impacts of AI & Digital Technology (Canada)*
-
   * Involvement in this hub led to the creation and development of an AI supportive system for the Service of Information and the Referral Service on socio-community services in Quebec (211). This AI project was schedule to be presented at a workshop at the Massachusetts Institute of Technology (MIT) in October 2020 (cancelled due to pandemic travel restrictions).
 
 
