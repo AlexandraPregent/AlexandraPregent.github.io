@@ -30,7 +30,7 @@ B.A. in Philosophy & French Literature, 2016-2019
 Canada Social Sciences and Humanities Research Council (20 000$ CAD/year) 2021-2025
 
 * Joseph-Armand Bombardier Canada Graduate Scholarships (105 000$ CAD) 2021-2024
-    &nbsp; &nbsp; &nbsp; (Scholarship declined to go study abroad.)
+    &nbsp; &nbsp;(Scholarship declined to go study abroad.)
 
 * OBVIA M.A. Fellowship Award (15 000$ CAD) 2020-2021
 
@@ -42,16 +42,14 @@ Canada Social Sciences and Humanities Research Council (20 000$ CAD/year) 2021-2
 
 # Work Experience
 
-&nbsp; 
 
 ## In-the-field experience
-
 
 
 ### **Ethics Adviser- Student Trainee (2019-2021)**
 
 * *Ethics in Science & Technology Commission (Quebec Government)*
-    * &nbsp; &nbsp;The Commission's mandate is to advise the Government on ethical questions related to Science & Technologies. 
+    * &nbsp; The Commission's mandate is to advise the Government on ethical questions related to Science & Technologies. 
     * &nbsp; &nbsp;Participation in the writing of several documents, including official briefs and reports.
 
 
@@ -59,9 +57,8 @@ Canada Social Sciences and Humanities Research Council (20 000$ CAD/year) 2021-2
 ### **Team Member of the Innovative Ideas Incubator (2019-2021)**
   
 * *Think Thank: OBVIA - International Observatory on the Societal Impacts of AI & Digital Technology (Canada)*
-  * &nbsp; Involvement in this hub led to the creation and development of an AI supportive system for the Service of Information and
-    &nbsp; the Referral Service on socio-community services in Quebec (211). This AI project was schedule to be presented at a workshop
-    &nbsp; at the Massachusetts Institute of Technology (MIT) in October 2020 (cancelled due to pandemic travel restrictions).
+
+* Involvement in this hub led to the creation and development of an AI supportive system for the Service of Information and the Referral Service on socio-community services in Quebec (211). This AI project was schedule to be presented at a workshop at the Massachusetts Institute of Technology (MIT) in October 2020 (cancelled due to pandemic travel restrictions).
 
 
 &nbsp; &nbsp; &nbsp;
