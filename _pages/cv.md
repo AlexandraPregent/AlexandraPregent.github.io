@@ -11,10 +11,10 @@ redirect_from:
 
 ---
 
-\
-\
-Education
-======
+.
+
+# Education
+
 * Ph.D in Philosophy, Philosophy of Technology, Leiden University, 2021-
 
   
@@ -24,10 +24,11 @@ Education
 * B.S. in Philosophy & French Literature, 2016-2019
 
 
-\
-\
-Work experience
-======
+.
+
+
+# Work experience
+
 ## In-the-field experience
 **2019-2021 Ethics Adviser- Student Trainee**
 * Employer: Ethics in Science & Technology Commission (Quebec Government)
