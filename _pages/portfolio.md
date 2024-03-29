@@ -1,3 +1,15 @@
+---
+layout: archive
+title: "portfolio"
+permalink: /portfolio/
+author_profile: true
+redirect_from:
+  - /porfolio
+---
+
+{% include base_path %}
+
+
 * **2019-2021 Ethics Adviser- Student Trainee**
 * Employer: Ethics in Science & Technology Commission (Quebec Government)
   * The Commission's mandate is to advise the Government on ethical questions related to Science & Technologies. 
