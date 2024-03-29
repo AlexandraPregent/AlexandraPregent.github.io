@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "In-the-Field Experience"
-permalink: /inthefieldexperience/
+permalink: /portfolio/
 author_profile: true
 redirect_from:
   - /inthefieldexperience
