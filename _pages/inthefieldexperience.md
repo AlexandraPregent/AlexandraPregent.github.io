@@ -3,6 +3,8 @@ layout: archive
 title: "In-the-Field Experience"
 permalink: /inthefieldexperience/
 author_profile: true
+redirect_from: 
+  - /inthefieldexperience/
 ---
 
 {% include base_path %}
