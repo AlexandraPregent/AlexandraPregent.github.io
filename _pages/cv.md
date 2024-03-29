@@ -26,7 +26,7 @@ redirect_from:
 
 # Scholarships & Fellowships
 
--- Canada Social Sciences and Humanities Research Council (20 000$ CAD/year) 2021-2025
+* Canada Social Sciences and Humanities Research Council (20 000$ CAD/year) 2021-2025
 
 
 * Joseph-Armand Bombardier Canada Graduate Scholarships (105 000$ CAD) 2021-2024
