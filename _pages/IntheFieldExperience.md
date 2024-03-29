@@ -8,7 +8,6 @@ author_profile: true
 {% include base_path %}
 
 
-### In-the-field experience
 * **2019-2021 Ethics Adviser- Student Trainee**
 * *Ethics in Science & Technology Commission (Quebec Government)*
   * -The Commission's mandate is to advise the Government on ethical questions related to Science & Technologies. 
