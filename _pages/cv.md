@@ -31,7 +31,7 @@ redirect_from:
 
 
 * Joseph-Armand Bombardier Canada Graduate Scholarships (105 000$ CAD) 2021-2024
-   * &nbsp;(Scholarship declined to go study abroad.)
+   * &nbsp; &nbsp; &nbsp; (Scholarship declined to go study abroad.)
 
 
 * OBVIA M.A. Fellowship Award (15 000$ CAD) 2020-2021
@@ -52,15 +52,18 @@ redirect_from:
 
 ### **Ethics Adviser- Student Trainee (2019-2021)**
 * *Ethics in Science & Technology Commission (Quebec Government)*
-    * &nbsp; The Commission's mandate is to advise the Government on ethical questions related to Science & Technologies. 
-    * &nbsp; Participation in the writing of several documents, including official briefs and reports.
+    * &nbsp; &nbsp; The Commission's mandate is to advise the Government on ethical questions related to Science & Technologies. 
+    * &nbsp; &nbsp; Participation in the writing of several documents, including official briefs and reports.
 
 
 
 ### **Team Member of the Innovative Ideas Incubator (2019-2021)**
   
 * *Think Thank: OBVIA - International Observatory on the Societal Impacts of AI & Digital Technology (Canada)*
-  * &nbsp; Involvement in this hub led to the creation and development of an AI supportive system for the Service of Information and the Referral Service on socio-community services in Quebec (211). This AI project was schedule to be presented at a workshop at the Massachusetts Institute of Technology (MIT) in October 2020 (cancelled due to pandemic travel restrictions).
+  * &nbsp; &nbsp; Involvement in this hub led to the creation and development of an AI supportive system for the Service of Information 
+  * &nbsp; &nbsp; and the Referral Service on socio-community services in Quebec (211). This AI project was schedule to be presented at 
+  * &nbsp; &nbsp; a workshop at the Massachusetts Institute of Technology (MIT) in October 2020 (cancelled due to pandemic travel 
+  * &nbsp; &nbsp; restrictions).
 
 .
 
@@ -69,25 +72,25 @@ redirect_from:
 
 ### Lecturer 
 * *Spring 2023, Leiden University (NL)*
-    * &nbsp; Philosophy of Technology, BA3, 5013kc53
-    * &nbsp; Design of new syllabus, course material, evaluations, grading, etc.
+    * &nbsp; &nbsp; Philosophy of Technology, BA3, 5013kc53
+    * &nbsp; &nbsp; Design of new syllabus, course material, evaluations, grading, etc.
   
 
 ### Invited Guest Lecturer
 * *Spring 2021, Laval University (CAN)*
-     * &nbsp; Philosophical and Ethical Issues of AI, PHI-4142
-     * &nbsp; One-time Lecture in Prof Jocelyn Maclure's course.
+     * &nbsp; &nbsp; Philosophical and Ethical Issues of AI, PHI-4142
+     * &nbsp; &nbsp; One-time Lecture in Prof Jocelyn Maclure's course.
   
 
 ### Teaching Assistant
 * *2019-2020, Laval University (CAN)*
-     * &nbsp; Philsophical and Ethical Issues of AI, PHI-4142
-     * &nbsp; Prof Jocelyn Maclure
+     * &nbsp; &nbsp; Philsophical and Ethical Issues of AI, PHI-4142
+     * &nbsp; &nbsp; Prof Jocelyn Maclure
 
 ### Research Assistant
 * *2019-2021, Laval University (CAN)*
-     * &nbsp; Design of new courses on Ethics of AI, Litterature Reviews, Review of academic work
-     * &nbsp; Prof Jocelyn Maclure
+     * &nbsp; &nbsp; Design of new courses on Ethics of AI, Litterature Reviews, Review of academic work
+     * &nbsp; &nbsp; Prof Jocelyn Maclure
 
 
 .
