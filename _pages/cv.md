@@ -24,7 +24,7 @@ Education
 
 Work experience
 ======
-### In-the-field experience
+## In-the-field experience
 * **2019-2021 Ethics Adviser- Student Trainee**
 * Employer: Ethics in Science & Technology Commission (Quebec Government)
   * The Commission's mandate is to advise the Government on ethical questions related to Science & Technologies. 
@@ -37,33 +37,34 @@ Work experience
   * Involvement in this hub led to the creation and development of an AI supportive system for the Service of Information and the Referral Service on socio-community services in Quebec (211). This AI project was schedule to be presented at a workshop at the Massachusetts Institute of Technology (MIT) in October 2020 (cancelled due to pandemic travel restrictions).
 
 
+.
 
+## Academic experience
 
-### Academic experience
-
-#### Lecturer 
+### Lecturer 
 * Spring 2023, Leiden University (NL)
   * Philosophy of Technology, BA3, 5013kc53
   * Design of new syllabus, course material, evaluations, grading, etc.
   
 
-#### Invited Guest Lecturer
+### Invited Guest Lecturer
 * Spring 2021, Laval University (CAN)
    * Philosophical and Ethical Issues of AI, PHI-4142
    * One-time Lecture in Prof Jocelyn Maclure's course.
   
 
-#### Teaching Assistant
+### Teaching Assistant
 * 2019-2020, Laval University (CAN)
    * Philsophical and Ethical Issues of AI, PHI-4142
    * Prof Jocelyn Maclure
 
-#### Research Assistant
+### Research Assistant
 * 2019-2021, Laval University (CAN)
    * Design of new course on Ethics of AI, Litterature Reviews, Review of academic work
    * Prof Jocelyn Maclure
 
 
+.
 
 
 Publications
@@ -79,6 +80,7 @@ Publications
 Nicolas Bernier & **Alexandra Prégent** (2020) Ethical Deliberation In a Sanitary, Economic, and Environmetal Crisis, Ethics of Science & Technology Commission, Actualities. 
   
 
+.
 
 
 Talks & Workshops (Selection)
