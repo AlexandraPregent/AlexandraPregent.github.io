@@ -176,11 +176,11 @@ ___
 
 # Social Commitment 
 
-**Student Refugee Program** (SRP) at Laval University (2019-2020)
+**Student Refugee Program** (SRP) at *Laval University* (2019-2020)
   * Mission: Ensuring financial, educational and social autonomy
   * Position: Vice-President
 
 &nbsp;  
-**Leiden University Graduate Council** (2024- )
+**Leiden University Graduate Council** at Leiden University (2024- )
   * Mission: Serving the interests of the graduate students at the Leiden's Institute for Philosophy
   * Position: Council Member
