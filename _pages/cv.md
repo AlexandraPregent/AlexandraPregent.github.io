@@ -21,25 +21,25 @@ M.A. in Philosophy, Ethics of AI, Laval University, 2019-2021
 
 B.A. in Philosophy & French Literature, 2016-2019
 
-&nbsp; 
-&nbsp; 
+---  
+
+
 
 
 # Scholarships & Fellowships
 
 Canada Social Sciences and Humanities Research Council (20 000$ CAD/year) 2021-2025
 
-Joseph-Armand Bombardier Canada Graduate Scholarships (105 000$ CAD) 2021-2024  
-  
-  * (Scholarship declined to go study abroad.)
+Joseph-Armand Bombardier Canada Graduate Scholarships (105 000$ CAD) 2021-2024      
+  * ###### *(Scholarship declined to go study abroad.)*  
      
  &nbsp;   
 OBVIA M.A. Fellowship Award (15 000$ CAD) 2020-2021
 
 Bourse Desjardins Baccalauréat (1250$CAD) 2017  
 
-&nbsp; 
-&nbsp; 
+***  
+
 
 
 # Work Experience
@@ -62,7 +62,7 @@ Bourse Desjardins Baccalauréat (1250$CAD) 2017
   * Involvement in this hub led to the creation and development of an AI supportive system for the Service of Information and the Referral Service on socio-community services in Quebec (211). This AI project was schedule to be presented at a workshop at the Massachusetts Institute of Technology (MIT) in October 2020 (cancelled due to pandemic travel restrictions).
 
 
-&nbsp; &nbsp; &nbsp;
+&nbsp; 
 
 
 ## Academic experience
@@ -90,8 +90,8 @@ Bourse Desjardins Baccalauréat (1250$CAD) 2017
      * &nbsp; &nbsp; Prof Jocelyn Maclure
 
 
-&nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp;
+___  
+
 
 Publications
 ======
@@ -141,14 +141,14 @@ Talks & Workshops (Selection)
 
 **VIII Research Day in Analytic Philosophy 2020.** Speaker at the VIII Research Day in Analytic Philosop. Talk: “Ethical Issues Raised by Opacity in Emotion Recognition Systems”, Québec, Fall 2020.
 
-&nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp;
+___  
+
 
 
 # Organisation of Conferences & Events
 
 * Co-organizer of the Fifth Study Day on AI ethics ["Surveillance"](https://www.obvia.ca/evenements/5e-journee-detude-en-ethique-de-lia-cre-obvia-surveillance), Montreal. 2024-W
-   * &nbsp; Joint organization with Martin Gibert (UdeM) & Hazar Haidar (UQAR)
+   &nbsp; * Joint organization with Martin Gibert (UdeM) & Hazar Haidar (UQAR)
 
 * Co-organizer of the [10th Annual OZSW Conference](https://www.ozsw.nl/2023-conference/), Dutch National Conference in philosophy, Leiden. 2023-S
    * &nbsp; Lead of the Track “Philosophy & Technology”.
