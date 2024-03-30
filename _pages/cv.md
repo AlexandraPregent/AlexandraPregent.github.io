@@ -147,21 +147,26 @@ ___
 
 # Organisation of Conferences & Events
 
-* Co-organizer of the Fifth Study Day on AI ethics ["Surveillance"](https://www.obvia.ca/evenements/5e-journee-detude-en-ethique-de-lia-cre-obvia-surveillance), Montreal. 2024-W
-  
-  *  &nbsp; Joint organization with Martin Gibert (UdeM) & Hazar Haidar (UQAR)
+Co-organizer of the Fifth Study Day on AI ethics ["Surveillance"](https://www.obvia.ca/evenements/5e-journee-detude-en-ethique-de-lia-cre-obvia-surveillance), Montreal. 2024-W   
+  *  &nbsp; with Martin Gibert (UdeM) & Hazar Haidar (UQAR)
 
-* Co-organizer of the [10th Annual OZSW Conference](https://www.ozsw.nl/2023-conference/), Dutch National Conference in philosophy, Leiden. 2023-S
-  
-   * ###### *Lead of the Track “Philosophy & Technology”*.  
+&nbsp; 
 
-* Co-organizer of the Fourth Study Day on AI ethics [“Affective Computing”](https://www.obvia.ca/evenements/4e-journee-detude-en-ethique-de-lia-sur-linformatique-affective), Montreal. 2023-W
-   * &nbsp; Joint organization with Martin Gibert (UdeM) & Hazar Haidar (UQAR)
+Co-organizer of the [10th Annual OZSW Conference](https://www.ozsw.nl/2023-conference/), Dutch National Conference in philosophy, Leiden. 2023-S  
+   * ###### Lead of the Track “Philosophy & Technology”.
+&nbsp;  
+Co-organizer of the Fourth Study Day on AI ethics [“Affective Computing”](https://www.obvia.ca/evenements/4e-journee-detude-en-ethique-de-lia-sur-linformatique-affective), Montreal. 2023-W  
+   * &nbsp; with Martin Gibert (UdeM) & Hazar Haidar (UQAR)
 
-* Co-organizer of the Third Study Day on AI ethics [“Ethics and simulation”](https://www.lecre.umontreal.ca/%C3%A9v%C3%A8nement/ethique-et-simulation-de-lia-a-la-realite-virtuelle/), Montreal. 2022-W
-   * &nbsp; Joint organization with Martin Gibert (UdeM) & Hazar Haidar (UQAR)
+&nbsp;
 
-* Co-organizer of the Second Study Day on AI ethics [“Algorithmic Quandaries”](https://iid.ulaval.ca/evenements/colloque-2e-journee-detude-sur-lethique-des-algorithmes/), Montreal. 2021-W
-   * &nbsp; Joint organization with Martin Gibert (UdeM) & Hazar Haidar (UQAR)
+Co-organizer of the Third Study Day on AI ethics [“Ethics and simulation”](https://www.lecre.umontreal.ca/%C3%A9v%C3%A8nement/ethique-et-simulation-de-lia-a-la-realite-virtuelle/), Montreal. 2022-W   
+   * &nbsp; with Martin Gibert (UdeM) & Hazar Haidar (UQAR)
+
+&nbsp;
+
+Co-organizer of the Second Study Day on AI ethics [“Algorithmic Quandaries”](https://iid.ulaval.ca/evenements/colloque-2e-journee-detude-sur-lethique-des-algorithmes/), Montreal. 2021-W  
+   * &nbsp; with Martin Gibert (UdeM) & Hazar Haidar (UQAR)
+
 
   
