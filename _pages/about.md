@@ -15,11 +15,13 @@ In my Master's thesis I addressed the social impact directly caused by the use o
 
 My PhD research is funded by the [SSHRC of Canada](https://www.sshrc-crsh.gc.ca/results-resultats/recipients-recipiendaires/2020/cgs_doctoral-besc_doctorat-eng.aspx).
 
+You can download my cv here.
 
 ---  
 
 
-### Articles, Podcasts, and News About my Research
+
+# Articles, Podcasts, and News About my Research
 
 🗣️ [*Let's Talk Ethics* (2021)](https://www.youtube.com/watch?v=_szyyVoG5bs)  \  🧔🏻‍♂️**Podcast Animator:** **[Keven Bisson](https://www.kevenbisson.com/)**
 
