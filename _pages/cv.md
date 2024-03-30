@@ -26,15 +26,20 @@ B.A. in Philosophy & French Literature, 2016-2019
 
 # Scholarships & Fellowships
 
-Canada Social Sciences and Humanities Research Council (20 000$ CAD/year) 2021-2025
+**PhD Graduate Scholarship (80K$ CAD) 2021-2025**  
+*Canada Social Sciences and Humanities Research Council (SSHRC)* 
 
-Joseph-Armand Bombardier Canada Graduate Scholarships (105 000$ CAD) 2021-2024      
+**PhD Graduate Scholarship (105 000$ CAD) 2021-2024**  
+*Joseph-Armand Bombardier*         
   * ###### *(Scholarship declined to go study abroad.)*  
      
  &nbsp;   
-OBVIA M.A. Fellowship Award (15 000$ CAD) 2020-2021
+**M.A. Fellowship Award (15 000$ CAD) 2020-2021**  
+*OBVIA-International Observatory on the Societal Impacts of AI & Digital Technologies*
 
-Bourse Desjardins Baccalauréat (1250$CAD) 2017  
+
+**B.A. Award (1250$CAD) 2017**  
+*Bourse Desjardins Baccalauréat*  
 
 ***  
 
