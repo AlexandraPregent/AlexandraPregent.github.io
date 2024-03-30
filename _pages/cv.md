@@ -67,7 +67,7 @@ Bourse Desjardins Baccalauréat (1250$CAD) 2017
 
 ### Lecturer 
 * *Spring 2023, Leiden University (NL)*
-    * &nbsp; &nbsp; Philosophy of Technology, BA3, 5013kc53
+    * &nbsp; &nbsp; Philosophy of Technology, BA3, 5013KC53
     * &nbsp; &nbsp; Design of new syllabus, course material, evaluations, grading, etc.
   
 
