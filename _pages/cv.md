@@ -11,8 +11,6 @@ redirect_from:
 
 ---
 
-
-
 # Education
 
 Ph.D in Philosophy, Philosophy of Technology, Leiden University, 2021-
@@ -176,7 +174,8 @@ ___
 **Student Refugee Program** (SRP) at Laval University (2019-2020)
   * Mission: Ensuring financial, educational and social autonomy
   * Position: Vice-President
-  
-**Leiden University Graduate Council**
+
+&nbsp;  
+**Leiden University Graduate Council** (2024- )
   * Mission: Serving the interests of the graduate students at the Leiden's Institute for Philosophy
   * Position: Council Member
