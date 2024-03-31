@@ -55,7 +55,7 @@ B.A. in Philosophy & French Literature, 2016-2019
 
 * *Ethics in Science & Technology Commission (Quebec Government)*
     * &nbsp; The Commission's mandate is to advise the Government on ethical questions related to Science & Technologies. 
-    * &nbsp; &nbsp;Participation in the writing of several documents, including official briefs and reports.
+    * &nbsp; &nbsp;Participation in the writing of several documents including official briefs and reports on topics such as AI & the Workplace, Covid-Tracking apps, and AI & Ethical Deliberation.
 
 
 
