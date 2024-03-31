@@ -13,10 +13,10 @@ redirect_from:
 
 \
 \
-**Ethics Adviser- Student Trainee (2019-2021)**
-* *Ethics in Science & Technology Commission (Quebec Government)*
-  * The Commission's mandate is to advise the Government on ethical questions related to Science & Technologies. 
-  * Participation in the writing of several documents, including official briefs and reports.
+**Ethics Adviser- Student Trainee (2019-2021)**  
+* *Ethics in Science & Technology Commission (Quebec Government)*  
+  * The Commission's mandate is to advise the Government on ethical questions related to Science & Technologies.   
+  * Participation in the writing of several documents including official briefs and reports on topics such as AI & the Workplace, Covid-Tracking apps, and AI & Ethical Deliberation.  
 
 
 \
