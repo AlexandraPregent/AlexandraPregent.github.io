@@ -33,10 +33,8 @@ B.A. in Philosophy & French Literature, 2016-2019
 *Joseph-Armand Bombardier*  
 *(Scholarship declined to go study abroad.)*  
      
- &nbsp;   
 **M.A. Fellowship Award (15 000$ CAD) 2020-2021**  
 *OBVIA-International Observatory on the Societal Impacts of AI & Digital Technologies*
-
 
 **B.A. Award (1250$CAD) 2017**  
 *Bourse Desjardins Baccalauréat*  
