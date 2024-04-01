@@ -7,7 +7,7 @@ author_profile: true
 ****
 ## Lecturer
 *Spring 2023, Leiden University (NL)*
- * Philosophy of Technology, BA3, 5013kc53
+ * Philosophy of Technology, BA3, 5013KC53
  * Design of new syllabus, course material, evaluations, grading, etc.
 
 ## Invited Guest Lecturer
