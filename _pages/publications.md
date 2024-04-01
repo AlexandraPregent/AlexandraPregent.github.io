@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+****
+
 **Alexandra Prégent**. Why You Should Not Use CI to Evaluate Socially Disruptive Technology: Privacy, Norms, and contexts. (Under revision at Philosophy&Technology)
 
 **Alexandra Prégent** & Keven Bisson (2021) “The Dividual Conception of Identity: A Possible Solution to Marusic’s Grief Puzzle?”, Phares, 21(1).
