@@ -30,8 +30,8 @@ B.A. in Philosophy & French Literature, 2016-2019
 *Canada Social Sciences and Humanities Research Council (SSHRC)* 
 
 **PhD Graduate Scholarship (105 000$ CAD) 2021-2024**  
-*Joseph-Armand Bombardier*         
-  * ###### *(Scholarship declined to go study abroad.)*  
+*Joseph-Armand Bombardier*  
+*(Scholarship declined to go study abroad.)*  
      
  &nbsp;   
 **M.A. Fellowship Award (15 000$ CAD) 2020-2021**  
