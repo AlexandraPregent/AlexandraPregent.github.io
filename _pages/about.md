@@ -20,7 +20,7 @@ You can download my cv [here](https://AlexandraPregent.github.io/files/CV_31_03_
 
 
 
-# Articles, Podcasts, and News About my Research <img src="https://github.com/AlexandraPregent/AlexandraPregent.github.io/assets/165220288/f362716c-61f5-4a93-9807-b0812a4f4c81" alt="https://github.com/AlexandraPregent/AlexandraPregent.github.io/assets/165220288/f362716c-61f5-4a93-9807-b0812a4f4c81" width="25"/>  
+# Articles, Podcasts, and News About my Research <img src="https://github.com/AlexandraPregent/AlexandraPregent.github.io/assets/165220288/f362716c-61f5-4a93-9807-b0812a4f4c81" alt="https://github.com/AlexandraPregent/AlexandraPregent.github.io/assets/165220288/f362716c-61f5-4a93-9807-b0812a4f4c81" width="30"/>  
 
 
 🗣️ [*Let's Talk Ethics* (2021)](https://www.youtube.com/watch?v=_szyyVoG5bs)  \  🧔🏻‍♂️**Podcast Animator:** **[Keven Bisson](https://www.kevenbisson.com/)**
