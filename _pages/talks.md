@@ -4,6 +4,7 @@ title: "Talks & Workshops (Selection)"
 permalink: /talks/
 author_profile: true
 ---
+****
 \
 **AI & Policy 2023.** International workshop on Epistemic Rights in AI Policy. With a focus on explainable AI, LLMs and generative AI, and fairness and accountability, this workshop aimed to explore innovative approaches to address contemporary challenges in AI policy. Eindhoven, Fall 2023.
 
