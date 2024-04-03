@@ -4,9 +4,16 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+****
+
+# Work in Progress
+
+**Alexandra Prégent**. A Right to Interiority? Exploring the Privacy Requirements for a Claim to Privacy Over our Emotional Life. 
+
 
 ****
 
+# Publications
 
 **Alexandra Prégent**. Why You Should Not Use CI to Evaluate Socially Disruptive Technology: Privacy, Norms, and contexts. (Under revision at Philosophy&Technology)
 
