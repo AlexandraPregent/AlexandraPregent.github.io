@@ -15,7 +15,7 @@ In my Master's thesis I addressed the social impact directly caused by the use o
 
 My PhD research is funded by the [SSHRC of Canada](https://www.sshrc-crsh.gc.ca/results-resultats/recipients-recipiendaires/2020/cgs_doctoral-besc_doctorat-eng.aspx).
 
-You can download my cv [here](https://AlexandraPregent.github.io/files/AlexandraPregent-cv.pdf) 
+You can download my cv [here](https://AlexandraPregent.github.io/files/AlexandraPregent2024CV.pdf) 
 
 
 
