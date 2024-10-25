@@ -35,5 +35,3 @@ Title: “Contextual Integrity and Socially Disruptive Technology”, San Luis P
 
 **VIII Research Day in Analytic Philosophy 2020.** Speaker at the VIII Research Day in Analytic Philosop. Talk: “Ethical Issues Raised by Opacity in Emotion Recognition Systems”, Québec, Fall 2020.
 
-# Conferences & Workshops (Selection)
-
