@@ -21,7 +21,7 @@ author_profile: true
 **Alexandra Prégent** (2021) <a href="https://philpapers.org/rec/PRGLCD" style="text-decoration:none">*Informatique affective: L’utilisation des systèmes de reconnaissance des émotions est-elle en cohérence avec la justice sociale?*</a>, Master’s Thesis, Laval University.
 
 
-# Conferences (Selection)
+# Conferences & Workshops (Selection)
 
 **(1) EAAMO 2024.** The 4th ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization.
 Title: “Contextual Integrity and Socially Disruptive Technology”, San Luis Potosí (Mexico), Fall 2024.
