@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "In-the-Field Experience"
+title: "Practical Experience"
 permalink: /portfolio/
 author_profile: true
 redirect_from:
