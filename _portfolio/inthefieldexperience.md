@@ -1,5 +1,5 @@
 ---
-title: "In-the-Field Experience"
+title: "Practical Experience"
 collection: portfolio
 ---
 .
