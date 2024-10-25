@@ -6,6 +6,8 @@ author_profile: true
 ---
 ****
 
+**EAAMO 2024.** The 4th ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization.
+Title: “Contextual Integrity and Socially Disruptive Technology”, San Luis Potosí (Mexico), Fall 2024.
 
 **AI & Policy 2023.** International workshop on Epistemic Rights in AI Policy. With a focus on explainable AI, LLMs and generative AI, and fairness and accountability, this workshop aimed to explore innovative approaches to address contemporary challenges in AI policy. Eindhoven, Fall 2023.
 
@@ -28,10 +30,10 @@ author_profile: true
 **Rendez-vous en IA 2021.** Guest Speaker at “Rendez-vous en IA”. Talk: “Algorithmic discrimination”, Montreal, Fall 2021.
 
 
-***Let’s Talk Ethic* 2021.** Guest at the French-Canadian Philosophy Podcast “Let’s talk Ethic”, Montreal, Fall 2021.
-
-
 **Rationality of Emotions 2020.** Speaker at Symposium on Rationality of Emotions. Talk: “Do Reasons Heal? An essay on Grief”, with Keven Bisson, Québec, Fall 2020.
 
 
 **VIII Research Day in Analytic Philosophy 2020.** Speaker at the VIII Research Day in Analytic Philosop. Talk: “Ethical Issues Raised by Opacity in Emotion Recognition Systems”, Québec, Fall 2020.
+
+# Conferences & Workshops (Selection)
+
