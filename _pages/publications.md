@@ -16,10 +16,10 @@ author_profile: true
 
 # Publications
 
-**Alexandra Prégent** & Keven Bisson (2021) <a href="https://philpapers.org/rec/PRGLCD" style="text-decoration:none">“La conception dividuelle de l’identité : une possible solution au casse-tête du deuil de Maruṧić ?”</a>, Phares, 21(1).
+**Alexandra Prégent** & Keven Bisson (2021) <a href="https://philpapers.org/rec/PRGLCD" style="text-decoration:none">“La conception dividuelle de l’identité : une possible solution au casse-tête du deuil de Maruṧić ?”</a>, *Phares*, 21(1).
 
 **Alexandra Prégent** (2021) <a href="https://philpapers.org/rec/PRGLCD" style="text-decoration:none">*Informatique affective: L’utilisation des systèmes de reconnaissance des émotions est-elle en cohérence avec la justice sociale?*</a>, Master’s Thesis, Laval University.
 
-**Alexandra Prégent** (2021) “How to Define a Group Without Excluding Any of Its Parts? Gender and the Sartrean Notion of Serial Structure According to Iris Marion Young”, Era Novum, 21(1).
+**Alexandra Prégent** (2021) “How to Define a Group Without Excluding Any of Its Parts? Gender and the Sartrean Notion of Serial Structure According to Iris Marion Young”, *Era Novum*, 21(1).
 
 Nicolas Bernier & **Alexandra Prégent** (2020) Ethical Deliberation In a Sanitary, Economic, and Environmetal Crisis, Ethics of Science & Technology Commission, Actualities.
