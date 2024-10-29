@@ -28,7 +28,7 @@ You can download my cv [here](https://AlexandraPregent.github.io/files/Alexandra
 
 🗣️ [*Parlons Éthique* (2021)](https://www.youtube.com/watch?v=_szyyVoG5bs)  /  🧔🏻‍♂️**Podcast Animator:** **[Keven Bisson](https://www.kevenbisson.com/)**
 
-🎥 [*Contextual Integrity & Socially Disruptive Technology* (2024)](https://www.youtube.com/watch?v=hEOm9ITLa4Q) / **Youtube Video**
+🎥 [*Contextual Integrity & Socially Disruptive Technology* (2024)](https://www.youtube.com/watch?v=hEOm9ITLa4Q) / **YouTube Video**
 
 🎭 [*False Emotions* (2021)](https://www.fp.ulaval.ca/actualites/alexandra-pregent-etudiante-a-la-maitrise-en-philosophie-a-presente-ses-travaux-dans-le-cadre-de-la-semaine-numeriqc) / **News Article**
 
