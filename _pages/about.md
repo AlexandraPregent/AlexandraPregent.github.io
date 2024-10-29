@@ -26,11 +26,11 @@ You can download my cv [here](https://AlexandraPregent.github.io/files/Alexandra
 # Articles, Podcasts, and News About my Research <img src="https://github.com/AlexandraPregent/AlexandraPregent.github.io/assets/165220288/f362716c-61f5-4a93-9807-b0812a4f4c81" alt="https://github.com/AlexandraPregent/AlexandraPregent.github.io/assets/165220288/f362716c-61f5-4a93-9807-b0812a4f4c81" width="30"/>  
 
 
-🗣️ [*Parlons Éthique* (2021)](https://www.youtube.com/watch?v=_szyyVoG5bs)  /  🧔🏻‍♂️**Podcast Animator:** **[Keven Bisson](https://www.kevenbisson.com/)**
+🗣️  [*Parlons Éthique* (2021)](https://www.youtube.com/watch?v=_szyyVoG5bs)  /  🧔🏻‍♂️**Podcast Animator:** **[Keven Bisson](https://www.kevenbisson.com/)**
 
-🎥 [*Contextual Integrity & Socially Disruptive Technology* (2024)](https://www.youtube.com/watch?v=hEOm9ITLa4Q) / **YouTube Video**
+🎥  [*Contextual Integrity & Socially Disruptive Technology* (2024)](https://www.youtube.com/watch?v=hEOm9ITLa4Q) / 🔴 ▶️ **YouTube Video**
 
-🎭 [*False Emotions* (2021)](https://www.fp.ulaval.ca/actualites/alexandra-pregent-etudiante-a-la-maitrise-en-philosophie-a-presente-ses-travaux-dans-le-cadre-de-la-semaine-numeriqc) / **News Article**
+🎭  [*False Emotions* (2021)](https://www.fp.ulaval.ca/actualites/alexandra-pregent-etudiante-a-la-maitrise-en-philosophie-a-presente-ses-travaux-dans-le-cadre-de-la-semaine-numeriqc) / **News Article**
 
-🤖 [*Émotions, Contexte et IA: facile de se tromper* (2021)](https://cursus.edu/fr/22736/emotions-contexte-et-ia-facile-de-se-tromper) / **News Article**
+🤖  [*Émotions, Contexte et IA: facile de se tromper* (2021)](https://cursus.edu/fr/22736/emotions-contexte-et-ia-facile-de-se-tromper) / **News Article**
 
