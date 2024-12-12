@@ -10,11 +10,11 @@ author_profile: true
 
 **Alexandra Prégent**. A Right to Interiority? Exploring the Privacy Requirements for a Claim to Privacy Over our Emotional Life. 
 
-**Alexandra Prégent**. Why You Should Not Use CI to Evaluate Socially Disruptive Technology: Privacy, Norms, and Contexts. (Under Review)
-
 ****
 
 # Publications (Selection)
+
+**Alexandra Prégent**. (Forthcoming) Why You Should Not Use CI to Evaluate Socially Disruptive Technology: Privacy, Norms, and Contexts, *Philosophy & Technology*.
 
 **Alexandra Prégent** & Keven Bisson (2021) <a href="https://philpapers.org/rec/PRGLCD" style="text-decoration:none">“La conception dividuelle de l’identité : une possible solution au casse-tête du deuil de Maruṧić ?”</a>, *Phares*, 21(1).
 
