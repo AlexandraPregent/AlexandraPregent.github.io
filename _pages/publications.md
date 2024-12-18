@@ -12,7 +12,8 @@ author_profile: true
 
 **Alexandra Prégent**. Disentangling the Philosophical Concept of Emotional Expressions from Its Use in Affective Computing: Towards a better understanding of the concept and the consequences of its commodification.
 
-**Alexandra Prégent**. Anticipatory Approach and the Use of Technomoral Scenario as a Way to Map the Ethical Impact of Emergent Technologies.
+**Alexandra Prégent**. Anticipatory Approach and the Use of Technomoral Scenarios as a Way to Map the Ethical Impact of Emergent Technologies.
+
 ****
 
 # Publications (Selection)
