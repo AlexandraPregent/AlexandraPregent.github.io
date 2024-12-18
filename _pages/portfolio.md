@@ -12,7 +12,7 @@ redirect_from:
 ****
 # Involvement in International Project, Consortium, Think Thank
 
-**ESDiT** $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 2024- Present
+**ESDiT** &nbsp; &nbsp; &nbsp;2024- Present
 
 *Affiliated Member*
 
@@ -20,7 +20,7 @@ redirect_from:
      * Develop a comprehensive philosophical understanding of the socially disruptive technologies (SDTs) of the 21st century, and in particular their challenge to the very concepts and values that we normally appeal to in our moral thinking.
 
 
-**SRPoiSE** $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$  2024- Present
+**SRPoiSE** &nbsp; &nbsp; &nbsp; 2024- Present
 
 *Board Member*
 
@@ -28,7 +28,7 @@ redirect_from:
     * This consortium supports, advances, and conducts philosophical work that is related to science and engineering and that contributes to public welfare and collective wellbeing. We aim to improve the capacity of philosophers of all specializations to collaborate and engage with scientists, engineers, policy-makers, and a wide range of publics to foster epistemically and ethically responsible scientific and technological research.
 
 
-**Think Thank OBVIA** $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 2019-2021 
+**Think Thank OBVIA** &nbsp; &nbsp; &nbsp;2019-2021 
 
 *Student Member*
 
@@ -38,7 +38,7 @@ redirect_from:
 
 ## ***Relevance Policy-Related Experience***
 
-**Ethics in Science & Technology Commission (Quebec Government)** $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 2019-2021 
+**Ethics in Science & Technology Commission (Quebec Government)** &nbsp; &nbsp; &nbsp; 2019-2021 
 
 *Ethics Adviser- Student Trainee*
 
