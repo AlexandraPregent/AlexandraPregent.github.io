@@ -16,7 +16,7 @@ author_profile: true
 
 ****
 
-# Publications (Selection)
+# Publications
 
 **Alexandra Prégent**. (2025) <a href="https://link.springer.com/article/10.1007/s13347-025-00838-z#citeas" style="text-decoration:none">"Why You Should Not Use CI to Evaluate Socially Disruptive Technology: Privacy, Norms, and Contexts"</a>, *Philosophy & Technology*.
 
