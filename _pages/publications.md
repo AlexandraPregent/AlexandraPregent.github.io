@@ -6,6 +6,19 @@ author_profile: true
 ---
 ****
 
+# Publications
+
+**Alexandra Prégent**. (2025) <a href="https://link.springer.com/article/10.1007/s13347-025-00838-z" style="text-decoration:none">"Why You Should Not Use CI to Evaluate Socially Disruptive Technology: Privacy, Norms, and Contexts"</a>, *Philosophy & Technology*, 38(6).
+
+**Alexandra Prégent** & Keven Bisson (2021) <a href="https://philpapers.org/rec/PRGLCD" style="text-decoration:none">“La conception dividuelle de l’identité : une possible solution au casse-tête du deuil de Maruṧić ?”</a>, *Phares*, 21(1).
+
+**Alexandra Prégent** (2021) <a href="https://philpapers.org/rec/PRGLCD" style="text-decoration:none">*Informatique affective: L’utilisation des systèmes de reconnaissance des émotions est-elle en cohérence avec la justice sociale?*</a>, Master’s Thesis, Laval University.
+
+# Under Review
+
+**ALexandra Prégent**. Is There Not an Obvious Loophole in the AI Act Ban on Emotion Recognition Technologies? Under review at *AI&Society*
+
+
 # Work in Progress
 
 **Alexandra Prégent**. A Right to Interiority? Exploring the Privacy Requirements for a Claim to Privacy Over our Emotional Life. 
@@ -15,12 +28,3 @@ author_profile: true
 **Alexandra Prégent**. Anticipatory Approach and the Use of Technomoral Scenarios as a Way to Map the Ethical Impact of Emergent Technologies.
 
 ****
-
-# Publications
-
-**Alexandra Prégent**. (2025) <a href="https://link.springer.com/article/10.1007/s13347-025-00838-z" style="text-decoration:none">"Why You Should Not Use CI to Evaluate Socially Disruptive Technology: Privacy, Norms, and Contexts"</a>, *Philosophy & Technology*, 38(6).
-
-**Alexandra Prégent** & Keven Bisson (2021) <a href="https://philpapers.org/rec/PRGLCD" style="text-decoration:none">“La conception dividuelle de l’identité : une possible solution au casse-tête du deuil de Maruṧić ?”</a>, *Phares*, 21(1).
-
-**Alexandra Prégent** (2021) <a href="https://philpapers.org/rec/PRGLCD" style="text-decoration:none">*Informatique affective: L’utilisation des systèmes de reconnaissance des émotions est-elle en cohérence avec la justice sociale?*</a>, Master’s Thesis, Laval University.
-
