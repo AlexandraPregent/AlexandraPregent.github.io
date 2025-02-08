@@ -40,9 +40,9 @@ redirect_from:
       * Involvement in this hub led to the creation and development of an AI supportive system for the Service of Information and the Referral Service on socio-community services in Quebec (211). This AI project was schedule to be presented at a workshop at the Massachusetts Institute of Technology (MIT) in October 2020 (cancelled due to pandemic travel restrictions).
         
 
-## ***Relevance Policy-Related Experience***
+## ***Relevant Policy-Related Experience***
 
-**Ethics in Science & Technology Commission (Quebec Government)** &nbsp; &nbsp; &nbsp; 2019-2021 
+**Ethics in Science & Technology Commission** &nbsp; &nbsp; &nbsp; 2019-2021 &nbsp; &nbsp; &nbsp; (Quebec Government)
 
 *Ethics Adviser- Student Trainee*
 
