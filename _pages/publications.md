@@ -8,7 +8,7 @@ author_profile: true
 
 # Publications
 
-**ALexandra Prégent**. (Forthcoming) Is there not an obvious loophole in the AI act's ban on emotion recognition technologies? *AI&Society*
+**Alexandra Prégent**. (Forthcoming) Is there not an obvious loophole in the AI act's ban on emotion recognition technologies? *AI&Society*
 
 **Alexandra Prégent**. (2025) <a href="https://link.springer.com/article/10.1007/s13347-025-00838-z" style="text-decoration:none">"Why you should not use CI to evaluate socially disruptive technology"</a>, *Philosophy & Technology*, 38(6).
 
@@ -16,11 +16,7 @@ author_profile: true
 
 **Alexandra Prégent** (2021) <a href="https://philpapers.org/rec/PRGLCD" style="text-decoration:none">*Informatique affective: L’utilisation des systèmes de reconnaissance des émotions est-elle en cohérence avec la justice sociale?*</a>, Master’s Thesis, Laval University.
 
-****Alexandra Prégent** (2021) <a href="https://philpapers.org/rec/PRGCDU" style="text-decoration:none">"Comment définir un groupe sans exclure aucune de ses parties ? Le genre et la notion sartrienne de la structure sérielle selon Iris Marion Young"</a>, Savannah Dubé (ed.), *Era Novum*, pp.120-126, EUMC-Laval: Québec.
-
-
-# Under Review
-
+**Alexandra Prégent** (2021) <a href="https://philpapers.org/rec/PRGCDU" style="text-decoration:none">"Comment définir un groupe sans exclure aucune de ses parties ? Le genre et la notion sartrienne de la structure sérielle selon Iris Marion Young"</a>, Savannah Dubé (ed.), *Era Novum*, pp.120-126, EUMC-Laval: Québec.
 
 
 
