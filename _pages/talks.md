@@ -7,6 +7,8 @@ author_profile: true
 ****
 **IACAP-AISB 2025.** The International Association for Computing and Philosophy (IACAP) and the Society for the Study of Artificial Intelligence and Simulation of Behaviour (AISB). Title: "No Hard Feelings?: A Philosophical Analysis of the Social Value of Overt Expressions of Emotions", Enschede (NL), Summer 2025.
 
+**SPT 2025.** The 24th biennial international conference of the Society for Philosophy and Technology. Conference theme: “The Intimate Technological Revolution”. Title: "Emotional expressions, Informational opacity, and Technology: On the necessity of overt emotional expressions in social life", Eindhoven (NL), Summer 2025.
+
 **GWP 2025.** Fifth International Conference of The German Society for Philosophy of Science (Gesellschaft für Wissenschaftsphilosophie). Title: “A Philosophical Investigation of Emotion Recognition Technology”, Erlangen (Germany), Spring 2025.
 
 **EMERGE 2024.** International Conference on Ethics of AI Alignment. Title: "Emotional quantification and philosophical thinking: Understanding ourselves better with emotion recognition technology", Belgrade (Serbia/Online), Fall 2024.
