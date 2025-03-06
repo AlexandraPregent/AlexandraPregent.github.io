@@ -17,7 +17,7 @@ author_profile: true
 **Alexandra Prégent** (2021) <a href="https://philpapers.org/rec/PRGLCD" style="text-decoration:none">*Informatique affective: L’utilisation des systèmes de reconnaissance des émotions est-elle en cohérence avec la justice sociale?*</a>, Master’s Thesis, Laval University.
 
 ****Alexandra Prégent** (2021) <a href="https://philpapers.org/rec/PRGCDU" style="text-decoration:none">*Comment définir un groupe sans exclure aucune de ses parties ? Le genre et la notion sartrienne de la structure sérielle selon Iris Marion Young
-*</a>, Savannah Dubé (ed.), Era Novum, pp.120-126, *EUMC-Laval*: Québec.
+*</a>, Savannah Dubé (ed.), Era Novum*, pp.120-126, EUMC-Laval: Québec.
 
 
 # Under Review
