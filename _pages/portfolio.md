@@ -12,12 +12,12 @@ redirect_from:
 ****
 # Involvement in International Project, Consortium, Think Thank
 
-**ESDiT** &nbsp; &nbsp; &nbsp;2024- Present &nbsp; &nbsp; &nbsp; Netherlands
+**[ESDiT](https://www.esdit.nl/about-esdit/)** &nbsp; &nbsp; &nbsp;2024- Present &nbsp; &nbsp; &nbsp; Netherlands
 
 *Affiliated Member*
 
  * Ethics of Socially Disruptive Technology (NWO Project) 
-     * Develop a comprehensive philosophical understanding of the socially disruptive technologies (SDTs) of the 21st century, and in particular their challenge to the very concepts and values that we normally appeal to in our moral thinking.
+     * Develop a comprehensive philosophical understanding of the socially disruptive technologies (SDTs) of the 21st century, and in particular their challenge to the very concepts and values that we normally appeal to in our moral thinking. Affiliated member of the [New Methods](https://www.esdit.nl/research-line/new-methods-for-ethics/) & [Conceptual Disruption](https://www.esdit.nl/research-line/conceptual-disruption/) Lines.
 
  &nbsp;
  &nbsp;
