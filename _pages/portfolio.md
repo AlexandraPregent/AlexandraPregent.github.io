@@ -22,7 +22,7 @@ redirect_from:
  &nbsp;
  &nbsp;
  
-**SRPoiSE** &nbsp; &nbsp; &nbsp; 2024- Present &nbsp; &nbsp; &nbsp; International 
+**[SRPoiSE](https://srpoise.org/)** &nbsp; &nbsp; &nbsp; 2024- Present &nbsp; &nbsp; &nbsp; International 
 
 *Board Member*
 
@@ -32,7 +32,7 @@ redirect_from:
 &nbsp;
 &nbsp;
 
-**OBVIA** &nbsp; &nbsp; &nbsp;2019-2021 &nbsp; &nbsp; &nbsp; Canada
+**[OBVIA](https://www.obvia.ca/)** &nbsp; &nbsp; &nbsp;2019-2021 &nbsp; &nbsp; &nbsp; Canada
 
 *Student Member*
 
@@ -42,7 +42,7 @@ redirect_from:
 
 # ***Relevant Policy-Related Experience***
 
-**Ethics in Science & Technology Commission** &nbsp; &nbsp; &nbsp; 2019-2021 &nbsp; &nbsp; &nbsp; (Quebec Government)
+**[Ethics in Science & Technology Commission](https://www.ethique.gouv.qc.ca/fr/)** &nbsp; &nbsp; &nbsp; 2019-2021 &nbsp; &nbsp; &nbsp; (Québec Government)
 
 *Ethics Adviser- Student Trainee*
 
