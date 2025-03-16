@@ -11,6 +11,10 @@ author_profile: true
  * Design of new syllabus, course material, evaluations, grading, etc.
 
 ## Invited Guest Lecturer
+*Spring 2025, OZSW/Utrech University (NL)*
+  * Contextual Integrity & Socially Disruptive Technologies IN OZSW course: Ethics of SDTs
+  * One-time co-presentation with Dr. Naomi Jacobs
+
 *Spring 2021, Laval University (CAN)*
  * Philosophical and Ethical Issues of AI, PHI-4142
  * One-time Lecture in Prof Jocelyn Maclure's course.
