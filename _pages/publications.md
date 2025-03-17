@@ -22,7 +22,7 @@ author_profile: true
 
 # Work in Progress
 
-**Alexandra Prégent**. Privacy Requirements for a Claim to Privacy Over our Emotional Life. 
+**Alexandra Prégent**. Minimal Requirements for a Claim to Privacy Over our Emotional Life. 
 
 **Alexandra Prégent**. Disentangling the Philosophical Concept of Emotional Expressions from Its Use in Affective Computing: Towards a better understanding of the concept and the consequences of its commodification.
 
