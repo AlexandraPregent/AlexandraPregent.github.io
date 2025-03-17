@@ -14,7 +14,7 @@ author_profile: true
 **EMERGE 2024.** International Conference on Ethics of AI Alignment. Title: "Emotional quantification and philosophical thinking: Understanding ourselves better with emotion recognition technology", Belgrade (Serbia/Online), Fall 2024.
 
 **EAAMO 2024.** The 4th ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization.
-Title: “Contextual Integrity and Socially Disruptive Technology”, San Luis Potosí (Mexico), Fall 2024.
+Title: “Contextual Integrity and Socially Disruptive Technology”, San Luis Potosí (Mexico/Online), Fall 2024.
 
 **AI & Policy 2023.** International workshop on Epistemic Rights in AI Policy. With a focus on explainable AI, LLMs and generative AI, and fairness and accountability, this workshop aimed to explore innovative approaches to address contemporary challenges in AI policy. Eindhoven (Netherlands), Fall 2023.
 
