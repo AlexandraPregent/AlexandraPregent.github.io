@@ -33,6 +33,8 @@ You can download my cv [here](https://AlexandraPregent.github.io/files/Alexandra
 
 🎥  [*Contextual Integrity & Socially Disruptive Technology* (2024)](https://www.youtube.com/watch?v=hEOm9ITLa4Q) / 🔴 ▶️ **YouTube Video**
 
+[*AI en emotieherkenning: ‘Kan ons sociale verkeer ontregelen’* (2025)](https://www.universiteitleiden.nl/nieuws/2025/07/ai-en-emotieherkenning-kan-ons-sociale-verkeer-ontregelen) / By Myrthe Timmers **News Article**
+
 🎭  [*False Emotions* (2021)](https://www.fp.ulaval.ca/actualites/alexandra-pregent-etudiante-a-la-maitrise-en-philosophie-a-presente-ses-travaux-dans-le-cadre-de-la-semaine-numeriqc) / By Raymond Poirier **News Article**
 
 🤖  [*Émotions, Contexte et IA: facile de se tromper* (2021)](https://cursus.edu/fr/22736/emotions-contexte-et-ia-facile-de-se-tromper) / By Thot Cursus **News Article**
