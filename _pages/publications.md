@@ -18,13 +18,13 @@ author_profile: true
 
 # Under review
 
-**Alexandra Prégent**. *A Right to Privacy for the Aﬀective Life? The case of emotion recognition technology*
+**Alexandra Prégent**. *A Right to Privacy for the Aﬀective Life? The case of emotion recognition technology.*
 
 # Forthcoming
 
 **Alexandra Prégent**. (Forthcoming) <a href="https://arxiv.org/pdf/2602.08706" style="text-decoration:none">"Technosocial risks of ‘ideal’ emotion recognition technologies:
-A defense of the (social) value of emotional expressions"</a>, In *Ethics of AI Alignment:Rethinking Society Beyond the Human*, (eds.Ljubisa Bojic, Zoran Erić, Ana Lipij), The International
-Library of Ethics, Law and Technology, Springer.
+A defense of the (social) value of emotional expressions"</a>, In Ljubisa Bojic, Zoran Erić, Ana Lipij (eds.), *Ethics of AI Alignment:Rethinking Society Beyond the Human*, The International
+Library of Ethics, Law and Technology, Springer. (Preprint).
 
 ****
 
@@ -39,6 +39,6 @@ Library of Ethics, Law and Technology, Springer.
 
 **Alexandra Prégent** (2021) <a href="https://philpapers.org/rec/PRGLCD" style="text-decoration:none">*Informatique affective: L’utilisation des systèmes de reconnaissance des émotions est-elle en cohérence avec la justice sociale?*</a>, Master’s Thesis, Laval University.
 
-**Alexandra Prégent** (2021) <a href="https://philpapers.org/rec/PRGCDU" style="text-decoration:none">"Comment définir un groupe sans exclure aucune de ses parties ? Le genre et la notion sartrienne de la structure sérielle selon Iris Marion Young"</a>, Savannah Dubé (ed.), *Era Novum*, pp.120-126, EUMC-Laval: Québec.
+**Alexandra Prégent** (2021) <a href="https://philpapers.org/rec/PRGCDU" style="text-decoration:none">"Comment définir un groupe sans exclure aucune de ses parties ? Le genre et la notion sartrienne de la structure sérielle selon Iris Marion Young"</a>, In Savannah Dubé (ed.), *Era Novum*, pp.120-126, EUMC-Laval: Québec.
 
 
