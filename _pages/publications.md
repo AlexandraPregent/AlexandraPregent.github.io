@@ -22,7 +22,7 @@ author_profile: true
 
 # Forthcoming
 
-**Alexandra Prégent**. (Forthcoming) <a href="https://arxiv.org/pdf/2602.08706." style="text-decoration:none">"Technosocial risks of ‘ideal’ emotion recognition technologies:
+**Alexandra Prégent**. (Forthcoming) <a href="https://arxiv.org/pdf/2602.08706" style="text-decoration:none">"Technosocial risks of ‘ideal’ emotion recognition technologies:
 A defense of the (social) value of emotional expressions"</a>, In *Ethics of AI Alignment:Rethinking Society Beyond the Human*, (eds.Ljubisa Bojic, Zoran Erić, Ana Lipij), The International
 Library of Ethics, Law and Technology, Springer.
 
