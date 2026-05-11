@@ -29,11 +29,15 @@ You can download my cv [here](https://AlexandraPregent.github.io/files/Alexandra
 # Articles, Podcasts, and News About my Research <img src="https://github.com/AlexandraPregent/AlexandraPregent.github.io/assets/165220288/f362716c-61f5-4a93-9807-b0812a4f4c81" alt="https://github.com/AlexandraPregent/AlexandraPregent.github.io/assets/165220288/f362716c-61f5-4a93-9807-b0812a4f4c81" width="30"/>  
 
 
-🗣️  [*Parlons Éthique* (2021)](https://www.youtube.com/watch?v=_szyyVoG5bs)  /  🧔🏻‍♂️**Podcast Animator:** **[Keven Bisson](https://www.kevenbisson.com/)**
+🗣️  [*Comment les machines détectent nos émotions* (2026)](https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/le-code-a-change-6609054)   /  🧔🏻‍♂️**Journalist:** **[Xavier de La Porte](https://fr.wikipedia.org/wiki/Xavier_de_La_Porte)** 
+
+📝 [*Pourra-t-on vivre sans intelligence artificielle ?* (2026)](https://www.curieux.live/2026/05/05/pourra-t-on-vivre-sans-intelligence-artificielle/)  / By Thomas Allard **News Article**
+
+🦾 [*AI en emotieherkenning: ‘Kan ons sociale verkeer ontregelen’* (2025)](https://www.universiteitleiden.nl/nieuws/2025/07/ai-en-emotieherkenning-kan-ons-sociale-verkeer-ontregelen) / By Myrthe Timmers **News Article**
 
 🎥  [*Contextual Integrity & Socially Disruptive Technology* (2024)](https://www.youtube.com/watch?v=hEOm9ITLa4Q) / 🔴 ▶️ **YouTube Video**
 
-🦾 [*AI en emotieherkenning: ‘Kan ons sociale verkeer ontregelen’* (2025)](https://www.universiteitleiden.nl/nieuws/2025/07/ai-en-emotieherkenning-kan-ons-sociale-verkeer-ontregelen) / By Myrthe Timmers **News Article**
+🗣️ [*Parlons Éthique* (2021)](https://www.youtube.com/watch?v=_szyyVoG5bs)  /  🧔🏻‍♂️**Podcast Animator:** **[Keven Bisson](https://www.kevenbisson.com/)**
 
 🎭  [*False Emotions* (2021)](https://www.fp.ulaval.ca/actualites/alexandra-pregent-etudiante-a-la-maitrise-en-philosophie-a-presente-ses-travaux-dans-le-cadre-de-la-semaine-numeriqc) / By Raymond Poirier **News Article**
 
