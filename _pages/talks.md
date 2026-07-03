@@ -5,6 +5,15 @@ permalink: /talks/
 author_profile: true
 ---
 ****
+**IA Open Source 2026** Observatoire de l’Intelligence artificielle de l’Université Paris 1 Panthéon-Sorbonne (AI OBS).
+Title: "Éthique des modèles" (Table ronde)", Paris (FR), Summer 2026.
+
+**AI OBS 2026.** Observatoire de l’Intelligence artificielle de l’Université Paris 1 Panthéon-Sorbonne (AI OBS).
+Title: "IA compagnons: De quoi parle-t-on? (Table ronde)", Paris (FR), Winter 2026.
+
+**EPSA 2025.** The European Philosophy of Science Association (EPSA). Title: "On the Social Relevance of
+Emotional Expressions Philosophical Insight on Affective Computing", Groningen (NL), Summer 2025.
+
 **IACAP-AISB 2025.** The International Association for Computing and Philosophy (IACAP) and the Society for the Study of Artificial Intelligence and Simulation of Behaviour (AISB). Title: "No Hard Feelings?: A Philosophical Analysis of the Social Value of Overt Expressions of Emotions", Enschede (NL), Summer 2025.
 
 **SPT 2025.** The 24th biennial international conference of the Society for Philosophy and Technology. Conference theme: “The Intimate Technological Revolution”. Title: "Emotional expressions, Informational opacity, and Technology: On the necessity of overt emotional expressions in social life", Eindhoven (NL), Summer 2025.
