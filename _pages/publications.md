@@ -18,7 +18,7 @@ author_profile: true
 
 # Under review
 
-**Alexandra Prégent**, Alexei Grimbaum, & Petra Saskia Bayerl. "Stress-Testing the Principles of AI Ethics:
+**Alexandra Prégent**, Alexei Grinbaum, & Petra Saskia Bayerl. "Stress-Testing the Principles of AI Ethics:
 From Static to Contextual Structures." 
 
 # Forthcoming
