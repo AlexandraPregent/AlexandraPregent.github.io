@@ -24,7 +24,7 @@ redirect_from:
 
 *Postdoc Researcher*
 
-  * The AIOLIA | Horizon Europe Project aims to operationalise high-level ethical principles underpinning several regulatory frameworks, including the European AI Act. Through a tight collaboration with both industrial partners and policymakers, the project seeks to develop concrete guidelines to ethical practices in AI development, with particular attention to the risks associated with transformations of human cognition and behaviour.
+   * AIOLIA *Horizon Europe Project* aims to operationalise high-level ethical principles underpinning several regulatory frameworks, including the European AI Act. Through a tight collaboration with both industrial partners and policymakers, the project seeks to develop concrete guidelines to ethical practices in AI development, with particular attention to the risks associated with transformations of human cognition and behaviour. 
 
     * [Policy Brief](https://aiolia.eu/wp-content/uploads/2026/07/AIOLIA-D6.3-final.pdf)
     
