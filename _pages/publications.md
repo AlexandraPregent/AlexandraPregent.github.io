@@ -18,12 +18,15 @@ author_profile: true
 
 # Under review
 
-**Alexandra Prégent**. *A Right to Privacy for the Aﬀective Life? The case of emotion recognition technology.*
+**Alexandra Prégent**, Alexei Grimbaum, & Saskia Bayerl. "Stress-Testing the Principles of AI Ethics:
+From Static to Contextual Structures." 
 
 # Forthcoming
 
+**Alexandra Prégent**. (Forthcoming) Re-engineering Emotional Privacy in the Face of Emergent Technologies: Forecasting the need for a normative proposal. In Manuel Gustavo Isaac, Jeroen Hopster & Lily Franck (eds.), *Reshaping the World: Conceptual Engineering for Emerging Science and Technologies*, Routledge.
+
 **Alexandra Prégent**. (Forthcoming) <a href="https://arxiv.org/pdf/2602.08706" style="text-decoration:none">"Technosocial risks of ‘ideal’ emotion recognition technologies:
-A defense of the (social) value of emotional expressions"</a>, In Ljubisa Bojic, Zoran Erić, Ana Lipij (eds.), *Ethics of AI Alignment:Rethinking Society Beyond the Human*, The International
+A defense of the (social) value of emotional expressions"</a>. In Ljubisa Bojic & Zoran Erić (eds.), *Ethics of AI Alignment:Rethinking Society Beyond the Human*, The International
 Library of Ethics, Law and Technology, Springer. (Preprint).
 
 ****
