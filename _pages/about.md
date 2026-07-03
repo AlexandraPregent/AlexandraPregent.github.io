@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there!👋 &nbsp; I'm currently a Postdoc Researcher at CEA Paris-Saclay, working with [Dr. Alexei Grinbaum](https://irfu.cea.fr/Pisp/alexei.grinbaum/) on the [AIOLIA Project](https://aiolia.eu/index.php/what-we-do/) (check it out!).  My work spans topics in applied ethics, philosophy of technology, social psychology, social and pragmatic epistemology, information ethics, and privacy, and mainly addresses issues in normative and practical ethics of new and emergent technologies, specifically the ones at play in human-computer interactions and in the development of emotional AI. 
+Hi there!👋 &nbsp; I'm currently a Postdoc Researcher at CEA Paris-Saclay, working with [Dr. Alexei Grinbaum](https://irfu.cea.fr/Pisp/alexei.grinbaum/) on the [AIOLIA Project](https://aiolia.eu/index.php/what-we-do/) (check it out!).  My work spans topics in applied ethics, including philosophy of technology, philosophy of emotions, and privacy, and mainly addresses issues in normative and practical ethics of new and emergent technologies, specifically the ones at play in human-computer interactions and in the development of emotional AI. 
 
 
 Before that, I was a PhD researcher at Leiden University under the supervision of [Prof Dorota Mokrosinska](https://www.dorotamokrosinska.com/) and [Prof James McAllister](https://www.universiteitleiden.nl/en/staffmembers/james-mcallister#tab-1), working on **privacy and social issues in affective computing**.
