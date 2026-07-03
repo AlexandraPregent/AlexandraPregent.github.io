@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Practical Experience"
+title: "Practical & Policy-related Experience"
 permalink: /portfolio/
 author_profile: true
 redirect_from:
@@ -10,6 +10,23 @@ redirect_from:
 {% include base_path %}
 
 ****
+        
+# ***Relevant Policy-Related Experience***
+
+**[Ethics in Science & Technology Commission](https://www.ethique.gouv.qc.ca/fr/)** &nbsp; &nbsp; &nbsp; 2019-2021 &nbsp; &nbsp; &nbsp; (Québec Government)
+
+*Ethics Adviser- Student Trainee*
+
+  * The Commission's mandate is to advise the Government on ethical questions related to Science & Technologies. 
+      * Participation in the writing of several documents, including official briefs and reports.
+   
+**[AIOLIA Project](https://aiolia.eu/index.php/what-we-do/)** &nbsp; &nbsp; &nbsp; 2026-Present &nbsp; &nbsp; &nbsp; (EU Horizon Project, European Commission)
+
+*Postdoc Researcher*
+
+  * The AIOLIA | Horizon Europe Project aims to operationalise high-level ethical principles underpinning several regulatory frameworks, including the European AI Act. Through a tight collaboration with both industrial partners and policymakers, the project seeks to develop concrete guidelines to ethical practices in AI development, with particular attention to the risks associated with transformations of human cognition and behaviour.
+    
+
 # Involvement in International Project, Consortium, Think Thank
 
 **[ESDiT](https://www.esdit.nl/about-esdit/)** &nbsp; &nbsp; &nbsp;2024- Present &nbsp; &nbsp; &nbsp; Netherlands
@@ -22,7 +39,7 @@ redirect_from:
  &nbsp;
  &nbsp;
  
-**[SRPoiSE](https://srpoise.org/)** &nbsp; &nbsp; &nbsp; 2024- Present &nbsp; &nbsp; &nbsp; International 
+**[SRPoiSE](https://srpoise.org/)** &nbsp; &nbsp; &nbsp; 2024-2026 &nbsp; &nbsp; &nbsp; International 
 
 *Board Member*
 
@@ -38,14 +55,3 @@ redirect_from:
 
   * International Observatory on the Societal Impacts of AI & Digital Technology (Think Thank)
       * Involvement in this hub led to the creation and development of an AI supportive system for the Service of Information and the Referral Service on socio-community services in Quebec (211). This AI project was schedule to be presented at a workshop at the Massachusetts Institute of Technology (MIT) in October 2020 (cancelled due to pandemic travel restrictions).
-        
-
-# ***Relevant Policy-Related Experience***
-
-**[Ethics in Science & Technology Commission](https://www.ethique.gouv.qc.ca/fr/)** &nbsp; &nbsp; &nbsp; 2019-2021 &nbsp; &nbsp; &nbsp; (Québec Government)
-
-*Ethics Adviser- Student Trainee*
-
-  * The Commission's mandate is to advise the Government on ethical questions related to Science & Technologies. 
-      * Participation in the writing of several documents, including official briefs and reports.
-
