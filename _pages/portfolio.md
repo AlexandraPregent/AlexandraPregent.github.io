@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Practical & Policy-related Experience"
+title: "Policy-related Experience"
 permalink: /portfolio/
 author_profile: true
 redirect_from:
@@ -10,8 +10,6 @@ redirect_from:
 {% include base_path %}
 
 ****
-        
-# ***Relevant Policy-Related Experience***
 
 **[Ethics in Science & Technology Commission](https://www.ethique.gouv.qc.ca/fr/)** &nbsp; &nbsp; &nbsp; 2019-2021 &nbsp; &nbsp; &nbsp; (Québec Government)
 
@@ -20,11 +18,15 @@ redirect_from:
   * The Commission's mandate is to advise the Government on ethical questions related to Science & Technologies. 
       * Participation in the writing of several documents, including official briefs and reports.
    
+      * 
+   
 **[AIOLIA Project](https://aiolia.eu/index.php/what-we-do/)** &nbsp; &nbsp; &nbsp; 2026-Present &nbsp; &nbsp; &nbsp; (France, Europe)
 
 *Postdoc Researcher*
 
   * The AIOLIA | Horizon Europe Project aims to operationalise high-level ethical principles underpinning several regulatory frameworks, including the European AI Act. Through a tight collaboration with both industrial partners and policymakers, the project seeks to develop concrete guidelines to ethical practices in AI development, with particular attention to the risks associated with transformations of human cognition and behaviour.
+
+    * [Policy Brief](https://aiolia.eu/wp-content/uploads/2026/07/AIOLIA-D6.3-final.pdf)
     
 
 # Involvement in International Project, Consortium, Think Thank
