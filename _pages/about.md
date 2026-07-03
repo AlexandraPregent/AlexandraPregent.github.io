@@ -15,8 +15,7 @@ Before that, I was a PhD researcher at Leiden University under the supervision o
 In my PhD research, I investigated the social implications of AI artefacts that detect, recognise, and analyse peoples' emotions. What if we had easy access to real-time recognition of emotions? How would this impact the social dynamics? In which contexts would this be desirable and in which contexts would this be detrimental? Do we have any legitimate claims to privacy over the emotions we display in public social settings? My main objective was to *analyse the social effect that emotion recognition technologies (ERTs) will have on human relationships and the Self*. The central aim was to go beyond current work that has pinpointed the consequences (and potential harms) that directly arise from their technical limitations - such as gender bias and group discrimination - and to explore the fundamental issues raised by the exposure and commodification of the affective life. To do so I adopted an anticipatory approach informed by empirical research to develop technomoral scenarios that reveal the ethical risks of using emotion recognition technology (ERT) as a type of decision support system in human-human relations. I further explored the implications of this new practice for mainstream conceptions of (social) privacy and, drawing on conceptual engineering theories, suggested the recognition of *'emotional privacy'* as a sub-concept of privacy and deemed it necessary to provide adequate protection against the pervasive effects of ERTs.
 
 
-You can download my cv [here](https://AlexandraPregent.github.io/files/AlexandraPregent2024CV.pdf) 
-
+You can download my cv [here](https://alexandrapregent.github.io/files/AlexandraPregent_cv2025.pdf) 
 
 
 ---  
