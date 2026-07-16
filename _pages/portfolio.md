@@ -18,7 +18,6 @@ redirect_from:
   * The Commission's mandate is to advise the Government on ethical questions related to Science & Technologies. 
       * Participation in the writing of several documents, including official briefs and reports.
    
-      * 
    
 **[AIOLIA Project](https://aiolia.eu/index.php/what-we-do/)** &nbsp; &nbsp; &nbsp; 2026-Present &nbsp; &nbsp; &nbsp; (France, Europe)
 
