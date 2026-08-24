@@ -24,7 +24,7 @@ You can download my cv [here](https://alexandrapregent.github.io/files/Alexandra
 
 # Articles, Podcasts, and News About my Research <img src="https://github.com/AlexandraPregent/AlexandraPregent.github.io/assets/165220288/f362716c-61f5-4a93-9807-b0812a4f4c81" alt="https://github.com/AlexandraPregent/AlexandraPregent.github.io/assets/165220288/f362716c-61f5-4a93-9807-b0812a4f4c81" width="30"/>  
 
-🗣️  [*Comment les machines détectent nos émotions* (2026)](https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/le-code-a-change-6609054)   /  By 🧔🏻‍♂️**Journalist:** Xavier de La Porte, *Le code a changé*. **Podcast**
+🗣️  [*Comment les machines détectent nos émotions* (2026)](https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/le-code-a-change-6609054)   /  By 🧔🏻‍♂️**Journalist:** Xavier de La Porte, *Le code a changé, Radio France*. **Podcast**
 
 📰 [*AI's Impact on Human Emotion Detection Explored* (2026)](https://www.miragenews.com/ais-impact-on-human-emotion-detection-explored-1732059/) / By *Mirage.News*. **News Article**
 
