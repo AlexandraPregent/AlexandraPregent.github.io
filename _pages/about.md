@@ -32,6 +32,8 @@ You can download my cv [here](https://alexandrapregent.github.io/files/Alexandra
 
 📝 [*Pourra-t-on vivre sans intelligence artificielle ?* (2026)](https://www.curieux.live/2026/05/05/pourra-t-on-vivre-sans-intelligence-artificielle/)  / By 🧔🏻‍♂️**Journalist**: Thomas Allard, *Curieux*. **News Article**
 
+🧐[*IA: quand la machine devient dangereusement confidente* (2026)](https://questionsdeduc.wordpress.com/2026/04/20/ia-quand-la-machine-devient-dangereusement-confidente/) / By Question d'Éduc. **News Article**
+
 🦾 [*AI en emotieherkenning: ‘Kan ons sociale verkeer ontregelen’* (2025)](https://www.universiteitleiden.nl/nieuws/2025/07/ai-en-emotieherkenning-kan-ons-sociale-verkeer-ontregelen) / By 👩🏻**Journaliste** Myrthe Timmers. **News Article**
 
 🎥  [*Contextual Integrity & Socially Disruptive Technology* (2024)](https://www.youtube.com/watch?v=hEOm9ITLa4Q) / 🔴 ▶️ **YouTube Video**
