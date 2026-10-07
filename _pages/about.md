@@ -26,13 +26,15 @@ You can download my cv [here](https://alexandrapregent.github.io/files/Alexandra
 
 🗣️  [*Comment les machines détectent nos émotions* (2026)](https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/le-code-a-change-6609054)   /  By 🧔🏻‍♂️**Journalist:** Xavier de La Porte, *Le code a changé, Radio France*. **Podcast**
 
+🗣️ [*Comment l'IA manipule-t-elle nos émotions?* (2026)](https://www.radiofrance.fr/franceinter/podcasts/grand-bien-vous-fasse/grand-bien-vous-fasse-du-mardi-15-septembre-2026-3484751) / By 🧔🏻‍♂️ Ali Rebeihi, *Grand Bien Vous Fasse!*, Radio France **Podcast**
+
 📰 [*AI's Impact on Human Emotion Detection Explored* (2026)](https://www.miragenews.com/ais-impact-on-human-emotion-detection-explored-1732059/) / By *Mirage.News*. **News Article**
 
 **CH** [*Seul et mal accompagné.(1/3)Les compagnons IA, ces amis qui nous veulent du mal* (2026)](https://charliehebdo.fr/2026/08/societe/tech/seul-et-mal-accompagne-1-3-les-compagnons-ia-ces-amis-qui-nous-veulent-du-mal/) / By 👩🏻**Journaliste:** Lorraine Redaud, *Charlie Hebdo*. **News Article**
 
 📝 [*Pourra-t-on vivre sans intelligence artificielle ?* (2026)](https://www.curieux.live/2026/05/05/pourra-t-on-vivre-sans-intelligence-artificielle/)  / By 🧔🏻‍♂️**Journalist**: Thomas Allard, *Curieux*. **News Article**
 
-🧐[*IA: quand la machine devient dangereusement confidente* (2026)](https://questionsdeduc.wordpress.com/2026/04/20/ia-quand-la-machine-devient-dangereusement-confidente/) / By Question d'Éduc. **News Article**
+🧐 [*IA: quand la machine devient dangereusement confidente* (2026)](https://questionsdeduc.wordpress.com/2026/04/20/ia-quand-la-machine-devient-dangereusement-confidente/) / By Question d'Éduc. **News Article**
 
 🦾 [*AI en emotieherkenning: ‘Kan ons sociale verkeer ontregelen’* (2025)](https://www.universiteitleiden.nl/nieuws/2025/07/ai-en-emotieherkenning-kan-ons-sociale-verkeer-ontregelen) / By 👩🏻**Journaliste** Myrthe Timmers. **News Article**
 
