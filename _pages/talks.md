@@ -5,11 +5,16 @@ permalink: /talks/
 author_profile: true
 ---
 ****
+
+**Invited Speaker**
+**AI Grand Challenge** INRIA, Title: 
 **IA Open Source 2026** Observatoire de l’Intelligence artificielle de l’Université Paris 1 Panthéon-Sorbonne (AI OBS).
 Title: "Éthique des modèles" (Table ronde)", Paris (FR), Summer 2026.
 
 **AI OBS 2026.** Observatoire de l’Intelligence artificielle de l’Université Paris 1 Panthéon-Sorbonne (AI OBS).
 Title: "IA compagnons: De quoi parle-t-on? (Table ronde)", Paris (FR), Winter 2026.
+
+**Speaker**
 
 **EPSA 2025.** The European Philosophy of Science Association (EPSA). Title: "On the Social Relevance of
 Emotional Expressions Philosophical Insight on Affective Computing", Groningen (NL), Summer 2025.
