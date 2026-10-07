@@ -5,7 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 ****
+
+
 ## Lecturer
+*Fall 2026, Supoptique Institute, Université Paris-Saclay (FR)
+ * Introduction to Ethics, BA3
+ * Design of syllabus, course material, evaluations, grading, etc.
+
 *Spring 2023, Leiden University (NL)*
  * Philosophy of Technology, BA3, 5013KC53
  * Design of new syllabus, course material, evaluations, grading, etc.
