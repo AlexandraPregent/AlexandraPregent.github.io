@@ -26,6 +26,8 @@ You can download my cv [here](https://alexandrapregent.github.io/files/Alexandra
 
 🗣️  [*Comment les machines détectent nos émotions* (2026)](https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/le-code-a-change-6609054)   /  By 🧔🏻‍♂️**Journalist:** Xavier de La Porte, *Le code a changé, Radio France*. **Podcast**
 
+▶️🔴 [*Les IAs qui lisent nos émotions? Débat avec une philosophe de l'IA* (2026)](https://www.youtube.com/watch?v=5yofugfgbtA) / By 🧔🏻‍♂️**Youtuber:** Renaud Varoqueaux, *Renaud Dékode, Youtube* **Interview**
+
 🗣️ [*Comment l'IA manipule-t-elle nos émotions?* (2026)](https://www.radiofrance.fr/franceinter/podcasts/grand-bien-vous-fasse/grand-bien-vous-fasse-du-mardi-15-septembre-2026-3484751) / By 🧔🏻‍♂️ Ali Rebeihi, *Grand Bien Vous Fasse!*, Radio France **Podcast**
 
 📰 [*AI's Impact on Human Emotion Detection Explored* (2026)](https://www.miragenews.com/ais-impact-on-human-emotion-detection-explored-1732059/) / By *Mirage.News*. **News Article**
