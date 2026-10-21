@@ -12,7 +12,7 @@ author_profile: true
 
 **Invited Speaker**
 
-**Ethics Meets Affective Computing 2026.** BoLuM Workshop. Title: "Privacy and emotional life: Re-engineering the concept of emotional privacy", München (GER), Fall 2026. 
+**Ethics Meets Affective Computing 2026.** BoLoM Workshop. Title: "Privacy and emotional life: Re-engineering the concept of emotional privacy", München (GER), Fall 2026. 
 
 **IA Open Source 2026.** Observatoire de l’Intelligence artificielle de l’Université Paris 1 Panthéon-Sorbonne (AI OBS).
 Title: "Éthique des modèles" (Table ronde)", Paris (FR), Summer 2026.
