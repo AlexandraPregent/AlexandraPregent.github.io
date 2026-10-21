@@ -14,6 +14,8 @@ author_profile: true
 
 **Ethics Meets Affective Computing 2026.** BoLoM Workshop. Title: "Privacy and emotional life: Re-engineering the concept of emotional privacy", München (GER), Fall 2026. 
 
+**ZINC 2026.** NIT Academy. Title: “Practical AI ethics workflow in system design”, Novi Sad (SRB), Summer 2026.
+
 **IA Open Source 2026.** Observatoire de l’Intelligence artificielle de l’Université Paris 1 Panthéon-Sorbonne (AI OBS).
 Title: "Éthique des modèles" (Table ronde)", Paris (FR), Summer 2026.
 
